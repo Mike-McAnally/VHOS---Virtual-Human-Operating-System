@@ -24,7 +24,7 @@ In this specific iteration we attempt to create an aproximation of Alan Turing -
 
 Working code and worked example for the **VHOS Unified Specification
 v4.0** (see `Spec/VHOS_v4.html`; the v3.0 PDF is retained for
-history). Python 3.10+, standard library only. First subject
+history). Also viewable at (https://webmac.com/vhos/VHOS_v4.html) Python 3.10+, standard library only. First subject
 instantiated: **Alan Turing**.
 
 ## What you need
