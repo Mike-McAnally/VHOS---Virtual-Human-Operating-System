@@ -1,0 +1,142 @@
+{
+ "$schema": "vhos/3.0/manifest",
+ "spec_version": "4.0",
+ "subject_id": "alan_turing",
+ "generated": "2026-07-17T14:26:24+00:00",
+ "file_count": 31,
+ "files": {
+  "raw/biometrics/README.md": {
+   "sha256": "0885c66aacdbb269aab483303fb2b768624c51333a556b3c25427b1a37d68d80",
+   "bytes": 695
+  },
+  "raw/interviews/README.md": {
+   "sha256": "5dbd86ecfc28f960591d5c1aa1ad7752557067906042364720bd6b847ed4afe3",
+   "bytes": 1087
+  },
+  "raw/text/broadcasts/bbc-1951-1952.md": {
+   "sha256": "eab360b0cce32b8d4e73e7b0d9fbe405a518073bdd9b4bc135aeaec655e5073a",
+   "bytes": 1452
+  },
+  "raw/text/full/PROVENANCE.json": {
+   "sha256": "5a7ccb9de8961c0e3a2c47690144f7aba3ff0fdedb0e87cb2d1b0fd8e8e990a1",
+   "bytes": 1936
+  },
+  "raw/text/full/computing-machinery-1950.pdf": {
+   "sha256": "3cd7c57944b7b53f18fb2a7c014fe2367f3576696a1d024c840151459da2f24e",
+   "bytes": 91972
+  },
+  "raw/text/full/on-computable-numbers-1936.pdf": {
+   "sha256": "b88da293ad7965c53c2726c19cf3fe68c549a1202cfd6d1a79224890f11b627d",
+   "bytes": 339421
+  },
+  "raw/text/full/routledge-letter-reproduction.html": {
+   "sha256": "4a3aa87a7ac6e6710c9997e609808f56705d584be883bce267abc06e3ea15c65",
+   "bytes": 169441
+  },
+  "raw/text/full/turing-org-uk.html": {
+   "sha256": "147294489e412b6e88295527791c07c9db0c4e7193ee308032cc093c17a7f78c",
+   "bytes": 8649
+  },
+  "raw/text/full/turingarchive-index.html": {
+   "sha256": "58d392b6a6700c09116a2e14429982c873a288c3b6902d917a34ac2f8c2f8fe8",
+   "bytes": 26395
+  },
+  "raw/text/letters/morcom-1930-1932.md": {
+   "sha256": "8d6fb81dcb6fd34b4f50d5ac2a321eb3fa578b4c5ee713b7385d9e0ce01acb4d",
+   "bytes": 2085
+  },
+  "raw/text/letters/routledge-1952.md": {
+   "sha256": "d849be4e2e44ea7d2df6c9132dcb0944dab44b14cfa7ee54992c3def4d4e4c55",
+   "bytes": 2963
+  },
+  "raw/text/papers/computing-machinery-1950.md": {
+   "sha256": "b16cc2974435fbbfd838d94c32f24333881bea06dd7406d9ed81366677a9a52a",
+   "bytes": 2161
+  },
+  "raw/text/papers/on-computable-numbers-1936.md": {
+   "sha256": "2063eb0ea81a821be9a89e657fd3c4f6bb4a2f82cf50cea2a163152cc76b9527",
+   "bytes": 932
+  },
+  "raw/text/secondary/hodges-biography-notes.md": {
+   "sha256": "d9eed9711d6020e723e60195d0430d80cb2fb3d7d09ceb12bead4696f84e0a59",
+   "bytes": 2773
+  },
+  "raw/text/secondary/model-knowledge/_PROVENANCE-HEADER.md": {
+   "sha256": "0080efbe98123c7ea20d93a6299c08753616ec8b176e5a55ad3c39b1ee91fcba",
+   "bytes": 938
+  },
+  "raw/text/secondary/model-knowledge/jefferson-lister-oration.md": {
+   "sha256": "47c9749c62e1cee2cc09d58a63173a5234b792f699adc598d1e0e0d50bab3de7",
+   "bytes": 1796
+  },
+  "raw/text/secondary/model-knowledge/manner-and-mind.md": {
+   "sha256": "a6da51a0d63bc572a74bc9841aac61e759375d0cdc138c57d63e009c7ec55407",
+   "bytes": 2061
+  },
+  "raw/text/secondary/model-knowledge/morphogenesis-1952.md": {
+   "sha256": "3d1e64fe57eb829f437a1705b45e4cd14ba39baf1bb11d3f902128e3d3a636c1",
+   "bytes": 1823
+  },
+  "raw/text/secondary/model-knowledge/timeline-life-events.md": {
+   "sha256": "bfc976c6babe8321e89199eefc6afe5264f3aed0817e1be3937679b2f18e1668",
+   "bytes": 3350
+  },
+  "sessions/placeholder.txt": {
+   "sha256": "c3a9356d11028cd907626a53517dc58e8ea50518ba4504a26db2c84ba952bac3",
+   "bytes": 187
+  },
+  "sessions/2026-07-15T14-30-35Z-chat/run_manifest.json": {
+   "sha256": "f96e2cfb48a6e6093a81948c373c41c9517ce9519fa1dac0f2693922e31bbf3c",
+   "bytes": 568
+  },
+  "sessions/2026-07-15T14-30-35Z-chat/soma_trace.csv": {
+   "sha256": "a3e9b35189afbeef09f2e67856645e0d54dad29673b750d8abc2b623567720e8",
+   "bytes": 207
+  },
+  "sessions/2026-07-15T14-30-35Z-chat/transcript.md": {
+   "sha256": "f4ba4f72b3a3b909eddddb3cd7e8185a4553b32ca1e6492a7423270724f6d04c",
+   "bytes": 874
+  },
+  "sessions/2026-07-15T15-28-14Z-chat/run_manifest.json": {
+   "sha256": "fdb797e5e269a07a3c3c8189ea99ae6c35ac97dbe08f869e8fe8573b7a57ad5e",
+   "bytes": 569
+  },
+  "sessions/2026-07-15T15-28-14Z-chat/soma_trace.csv": {
+   "sha256": "a3f2cd87a5ee684ef0c41501e51e6d54e312ff6fb7a8483e24dabb4103f6e3d0",
+   "bytes": 208
+  },
+  "sessions/2026-07-15T15-28-14Z-chat/transcript.md": {
+   "sha256": "4b34273cd1a575e762b4d72072bdfb3729d2105d6ebe5b2c1b5b15ebecc433b8",
+   "bytes": 1247
+  },
+  "sessions/2026-07-15T15-57-00Z-chat-reconstructed/PROVENANCE.md": {
+   "sha256": "9bed00cda7a0d8300a3db48d49cd2327873b5b7a2c58179f1728eea6e5f18247",
+   "bytes": 2376
+  },
+  "sessions/2026-07-15T15-57-00Z-chat-reconstructed/run_manifest.json": {
+   "sha256": "064f5a699637ca8bea6c9448b268312871a6aed359e013f1fac1f0e4a86735bd",
+   "bytes": 851
+  },
+  "sessions/2026-07-15T15-57-00Z-chat-reconstructed/soma_trace.csv": {
+   "sha256": "09b8321311bed7fb71ed8eb746daa617ae14c60488a39b070eaab90fa6fd1599",
+   "bytes": 464
+  },
+  "sessions/2026-07-15T15-57-00Z-chat-reconstructed/transcript.md": {
+   "sha256": "d938389cda76bcd84babe0237fc9f4f3a15ecb1a9e004584ecc2dd538cf6f28d",
+   "bytes": 12556
+  },
+  "hdl/subject.hdl": {
+   "sha256": "a691397944308a0b5d5e9aebc421f9711de80930c3bd31d83158cafefca203d8",
+   "bytes": 14092
+  }
+ },
+ "derived_trees": {
+  "vhosc-0.1.0": [
+   "affect.json",
+   "compile_report.json",
+   "heuristics.json",
+   "statements.json"
+  ]
+ },
+ "preservation_note": "Preservation priority: (1) raw capture, (2) hdl/, (3) derived projections, (4) everything else. Keep three copies of raw/, sessions/, and hdl/ on independent media (spec Part IV)."
+}

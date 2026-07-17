@@ -1,0 +1,52 @@
+[
+ {
+  "id": "turing-1936-paper",
+  "url": "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf",
+  "method": "fetch",
+  "tls_verified": true,
+  "fetched": "2026-07-14T14:33:38+00:00",
+  "sha256": "b88da293ad7965c53c2726c19cf3fe68c549a1202cfd6d1a79224890f11b627d",
+  "bytes": 339421,
+  "status": "unverified mirrors (Oxford, ETH Zurich, UVA) \u2014 UVA cert expired as of 2026-07"
+ },
+ {
+  "id": "turing-1950-paper",
+  "url": "https://www.csee.umbc.edu/courses/471/papers/turing.pdf",
+  "method": "fetch",
+  "tls_verified": true,
+  "fetched": "2026-07-14T14:33:39+00:00",
+  "sha256": "3cd7c57944b7b53f18fb2a7c014fe2367f3576696a1d024c840151459da2f24e",
+  "bytes": 91972,
+  "status": "unverified mirrors \u2014 US copyright to ~2046, operator accepts (ADR-003)"
+ },
+ {
+  "id": "routledge-reproduction",
+  "url": "https://whyevolutionistrue.com/2014/11/29/yours-in-distress-a-letter-from-alan-turing/",
+  "method": "fetch",
+  "tls_verified": true,
+  "fetched": "2026-07-14T14:33:39+00:00",
+  "sha256": "4a3aa87a7ac6e6710c9997e609808f56705d584be883bce267abc06e3ea15c65",
+  "bytes": 169441,
+  "status": "VERIFIED 2026-07-14 \u2014 excerpt in raw/text/letters matches this page"
+ },
+ {
+  "id": "turingarchive-index",
+  "url": "https://turingarchive.kings.cam.ac.uk/",
+  "method": "fetch",
+  "tls_verified": true,
+  "fetched": "2026-07-14T14:33:40+00:00",
+  "sha256": "58d392b6a6700c09116a2e14429982c873a288c3b6902d917a34ac2f8c2f8fe8",
+  "bytes": 26395,
+  "status": "canonical holding \u2014 navigate to AMT/K/1 (Morcom), AMT/D/14a (Routledge)"
+ },
+ {
+  "id": "turing-org-uk",
+  "url": "https://www.turing.org.uk/",
+  "method": "fetch",
+  "tls_verified": true,
+  "fetched": "2026-07-14T14:33:40+00:00",
+  "sha256": "147294489e412b6e88295527791c07c9db0c4e7193ee308032cc093c17a7f78c",
+  "bytes": 8649,
+  "status": "biographer's site \u2014 bibliography and source pointers"
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "$schema": "vhos/4.0/run-manifest",
+  "engine_id": "lmstudio",
+  "adapter": "lmstudio",
+  "params": {
+    "temperature_base": 0.8,
+    "top_p_base": 0.95,
+    "max_tokens_base": 2048
+  },
+  "seed": null,
+  "persona_sha256_12_last": "8779d69d907d",
+  "persona_sha256_12_per_turn": [
+    "d4256c047d6c",
+    "8779d69d907d"
+  ],
+  "soma_state_final": {
+    "arousal": 0.5816,
+    "tension": 0.6122,
+    "fatigue": 0.1651,
+    "warmth": 0.4895
+  },
+  "started": "2026-07-15T15:28:14+00:00",
+  "ended": "2026-07-15T15:56:55+00:00",
+  "turns": 4
+}

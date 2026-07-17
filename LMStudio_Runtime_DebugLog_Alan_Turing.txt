@@ -1,0 +1,1107 @@
+
+2026-07-15 11:18:05 [DEBUG]
+ 234.53.406.018 I slot print_timing: id  2 | task 17796 | n_decoded =   2231, tg =   3.72 t/s
+2026-07-15 11:18:08 [DEBUG]
+ 234.56.445.363 I slot print_timing: id  2 | task 17796 | n_decoded =   2243, tg =   3.72 t/s
+2026-07-15 11:18:11 [DEBUG]
+ 234.59.708.472 I slot print_timing: id  2 | task 17796 | n_decoded =   2255, tg =   3.72 t/s
+2026-07-15 11:18:14 [DEBUG]
+ 235.02.724.833 I slot print_timing: id  2 | task 17796 | n_decoded =   2264, tg =   3.72 t/s
+2026-07-15 11:18:17 [DEBUG]
+ 235.05.921.597 I slot print_timing: id  2 | task 17796 | n_decoded =   2277, tg =   3.72 t/s
+2026-07-15 11:18:20 [DEBUG]
+ 235.09.045.599 I slot print_timing: id  2 | task 17796 | n_decoded =   2289, tg =   3.72 t/s
+2026-07-15 11:18:23 [DEBUG]
+ 235.12.173.700 I slot print_timing: id  2 | task 17796 | n_decoded =   2299, tg =   3.72 t/s
+2026-07-15 11:18:27 [DEBUG]
+ 235.15.365.090 I slot print_timing: id  2 | task 17796 | n_decoded =   2310, tg =   3.72 t/s
+2026-07-15 11:18:30 [DEBUG]
+ 235.18.394.496 I slot print_timing: id  2 | task 17796 | n_decoded =   2322, tg =   3.72 t/s
+2026-07-15 11:18:33 [DEBUG]
+ 235.21.657.246 I slot print_timing: id  2 | task 17796 | n_decoded =   2334, tg =   3.72 t/s
+2026-07-15 11:18:36 [DEBUG]
+ 235.24.664.143 I slot print_timing: id  2 | task 17796 | n_decoded =   2343, tg =   3.72 t/s
+2026-07-15 11:18:39 [DEBUG]
+ 235.27.713.937 I slot print_timing: id  2 | task 17796 | n_decoded =   2355, tg =   3.72 t/s
+2026-07-15 11:18:42 [DEBUG]
+ 235.30.749.159 I slot print_timing: id  2 | task 17796 | n_decoded =   2367, tg =   3.72 t/s
+2026-07-15 11:18:45 [DEBUG]
+ 235.33.818.107 I slot print_timing: id  2 | task 17796 | n_decoded =   2378, tg =   3.72 t/s
+2026-07-15 11:18:48 [DEBUG]
+ 235.36.875.800 I slot print_timing: id  2 | task 17796 | n_decoded =   2388, tg =   3.71 t/s
+2026-07-15 11:18:51 [DEBUG]
+ 235.40.133.639 I slot print_timing: id  2 | task 17796 | n_decoded =   2401, tg =   3.72 t/s
+2026-07-15 11:18:55 [DEBUG]
+ 235.43.385.615 I slot print_timing: id  2 | task 17796 | n_decoded =   2413, tg =   3.72 t/s
+2026-07-15 11:18:58 [DEBUG]
+ 235.46.474.132 I slot print_timing: id  2 | task 17796 | n_decoded =   2422, tg =   3.71 t/s
+2026-07-15 11:19:01 [DEBUG]
+ 235.49.513.709 I slot print_timing: id  2 | task 17796 | n_decoded =   2434, tg =   3.71 t/s
+2026-07-15 11:19:04 [DEBUG]
+ 235.52.537.605 I slot print_timing: id  2 | task 17796 | n_decoded =   2446, tg =   3.71 t/s
+2026-07-15 11:19:07 [DEBUG]
+ 235.55.781.815 I slot print_timing: id  2 | task 17796 | n_decoded =   2458, tg =   3.71 t/s
+2026-07-15 11:19:10 [DEBUG]
+ 235.59.011.376 I slot print_timing: id  2 | task 17796 | n_decoded =   2468, tg =   3.71 t/s
+2026-07-15 11:19:13 [DEBUG]
+ 236.02.176.195 I slot print_timing: id  2 | task 17796 | n_decoded =   2481, tg =   3.71 t/s
+2026-07-15 11:19:16 [DEBUG]
+ 236.05.184.171 I slot print_timing: id  2 | task 17796 | n_decoded =   2492, tg =   3.71 t/s
+2026-07-15 11:19:19 [DEBUG]
+ 236.08.248.285 I slot print_timing: id  2 | task 17796 | n_decoded =   2502, tg =   3.71 t/s
+2026-07-15 11:19:23 [DEBUG]
+ 236.11.472.407 I slot print_timing: id  2 | task 17796 | n_decoded =   2514, tg =   3.71 t/s
+2026-07-15 11:19:26 [DEBUG]
+ 236.14.535.393 I slot print_timing: id  2 | task 17796 | n_decoded =   2526, tg =   3.71 t/s
+2026-07-15 11:19:29 [DEBUG]
+ 236.17.642.738 I slot print_timing: id  2 | task 17796 | n_decoded =   2537, tg =   3.71 t/s
+2026-07-15 11:19:32 [DEBUG]
+ 236.20.677.418 I slot print_timing: id  2 | task 17796 | n_decoded =   2545, tg =   3.71 t/s
+2026-07-15 11:19:35 [DEBUG]
+ 236.23.855.342 I slot print_timing: id  2 | task 17796 | n_decoded =   2558, tg =   3.71 t/s
+2026-07-15 11:19:38 [DEBUG]
+ 236.26.957.161 I slot print_timing: id  2 | task 17796 | n_decoded =   2570, tg =   3.71 t/s
+2026-07-15 11:19:41 [DEBUG]
+ 236.30.018.541 I slot print_timing: id  2 | task 17796 | n_decoded =   2581, tg =   3.71 t/s
+2026-07-15 11:19:44 [DEBUG]
+ 236.33.025.350 I slot print_timing: id  2 | task 17796 | n_decoded =   2590, tg =   3.71 t/s
+2026-07-15 11:19:47 [DEBUG]
+ 236.36.035.968 I slot print_timing: id  2 | task 17796 | n_decoded =   2602, tg =   3.71 t/s
+2026-07-15 11:19:50 [DEBUG]
+ 236.39.185.578 I slot print_timing: id  2 | task 17796 | n_decoded =   2614, tg =   3.71 t/s
+2026-07-15 11:19:54 [DEBUG]
+ 236.42.381.889 I slot print_timing: id  2 | task 17796 | n_decoded =   2624, tg =   3.70 t/s
+2026-07-15 11:19:57 [DEBUG]
+ 236.45.593.427 I slot print_timing: id  2 | task 17796 | n_decoded =   2637, tg =   3.71 t/s
+2026-07-15 11:20:00 [DEBUG]
+ 236.48.762.460 I slot print_timing: id  2 | task 17796 | n_decoded =   2649, tg =   3.71 t/s
+2026-07-15 11:20:03 [DEBUG]
+ 236.51.871.161 I slot print_timing: id  2 | task 17796 | n_decoded =   2660, tg =   3.71 t/s
+2026-07-15 11:20:06 [DEBUG]
+ 236.54.894.019 I slot print_timing: id  2 | task 17796 | n_decoded =   2669, tg =   3.70 t/s
+2026-07-15 11:20:09 [DEBUG]
+ 236.57.918.010 I slot print_timing: id  2 | task 17796 | n_decoded =   2681, tg =   3.70 t/s
+2026-07-15 11:20:12 [DEBUG]
+ 237.01.058.837 I slot print_timing: id  2 | task 17796 | n_decoded =   2693, tg =   3.70 t/s
+2026-07-15 11:20:16 [DEBUG]
+ 237.04.304.678 I slot print_timing: id  2 | task 17796 | n_decoded =   2703, tg =   3.70 t/s
+2026-07-15 11:20:19 [DEBUG]
+ 237.07.474.702 I slot print_timing: id  2 | task 17796 | n_decoded =   2711, tg =   3.70 t/s
+2026-07-15 11:20:22 [DEBUG]
+ 237.10.627.302 I slot print_timing: id  2 | task 17796 | n_decoded =   2723, tg =   3.70 t/s
+2026-07-15 11:20:25 [DEBUG]
+ 237.13.729.186 I slot print_timing: id  2 | task 17796 | n_decoded =   2735, tg =   3.70 t/s
+2026-07-15 11:20:28 [DEBUG]
+ 237.16.811.512 I slot print_timing: id  2 | task 17796 | n_decoded =   2746, tg =   3.70 t/s
+2026-07-15 11:20:31 [DEBUG]
+ 237.20.127.081 I slot print_timing: id  2 | task 17796 | n_decoded =   2755, tg =   3.69 t/s
+2026-07-15 11:20:34 [DEBUG]
+ 237.23.284.205 I slot print_timing: id  2 | task 17796 | n_decoded =   2765, tg =   3.69 t/s
+2026-07-15 11:20:38 [DEBUG]
+ 237.26.347.898 I slot print_timing: id  2 | task 17796 | n_decoded =   2777, tg =   3.69 t/s
+2026-07-15 11:20:41 [DEBUG]
+ 237.29.604.919 I slot print_timing: id  2 | task 17796 | n_decoded =   2789, tg =   3.69 t/s
+2026-07-15 11:20:44 [DEBUG]
+ 237.32.720.471 I slot print_timing: id  2 | task 17796 | n_decoded =   2799, tg =   3.69 t/s
+2026-07-15 11:20:47 [DEBUG]
+ 237.35.745.017 I slot print_timing: id  2 | task 17796 | n_decoded =   2811, tg =   3.69 t/s
+2026-07-15 11:20:50 [DEBUG]
+ 237.38.972.627 I slot print_timing: id  2 | task 17796 | n_decoded =   2823, tg =   3.69 t/s
+2026-07-15 11:20:53 [DEBUG]
+ 237.42.178.904 I slot print_timing: id  2 | task 17796 | n_decoded =   2833, tg =   3.69 t/s
+2026-07-15 11:20:56 [DEBUG]
+ 237.45.189.155 I slot print_timing: id  2 | task 17796 | n_decoded =   2845, tg =   3.69 t/s
+2026-07-15 11:21:00 [DEBUG]
+ 237.48.403.783 I slot print_timing: id  2 | task 17796 | n_decoded =   2857, tg =   3.69 t/s
+2026-07-15 11:21:03 [DEBUG]
+ 237.51.592.788 I slot print_timing: id  2 | task 17796 | n_decoded =   2866, tg =   3.69 t/s
+2026-07-15 11:21:06 [DEBUG]
+ 237.54.834.077 I slot print_timing: id  2 | task 17796 | n_decoded =   2879, tg =   3.69 t/s
+2026-07-15 11:21:09 [DEBUG]
+ 237.58.066.924 I slot print_timing: id  2 | task 17796 | n_decoded =   2891, tg =   3.69 t/s
+2026-07-15 11:21:12 [DEBUG]
+ 238.01.174.622 I slot print_timing: id  2 | task 17796 | n_decoded =   2900, tg =   3.68 t/s
+2026-07-15 11:21:15 [DEBUG]
+ 238.04.182.822 I slot print_timing: id  2 | task 17796 | n_decoded =   2912, tg =   3.69 t/s
+2026-07-15 11:21:19 [DEBUG]
+ 238.07.366.499 I slot print_timing: id  2 | task 17796 | n_decoded =   2924, tg =   3.69 t/s
+2026-07-15 11:21:22 [DEBUG]
+ 238.10.454.809 I slot print_timing: id  2 | task 17796 | n_decoded =   2933, tg =   3.68 t/s
+2026-07-15 11:21:25 [DEBUG]
+ 238.13.665.392 I slot print_timing: id  2 | task 17796 | n_decoded =   2945, tg =   3.68 t/s
+2026-07-15 11:21:28 [DEBUG]
+ 238.16.809.188 I slot print_timing: id  2 | task 17796 | n_decoded =   2957, tg =   3.68 t/s
+2026-07-15 11:21:31 [DEBUG]
+ 238.19.944.720 I slot print_timing: id  2 | task 17796 | n_decoded =   2967, tg =   3.68 t/s
+2026-07-15 11:21:34 [DEBUG]
+ 238.22.953.344 I slot print_timing: id  2 | task 17796 | n_decoded =   2979, tg =   3.68 t/s
+2026-07-15 11:21:37 [DEBUG]
+ 238.26.159.788 I slot print_timing: id  2 | task 17796 | n_decoded =   2991, tg =   3.68 t/s
+2026-07-15 11:21:41 [DEBUG]
+ 238.29.474.660 I slot print_timing: id  2 | task 17796 | n_decoded =   3002, tg =   3.68 t/s
+2026-07-15 11:21:44 [DEBUG]
+ 238.32.667.934 I slot print_timing: id  2 | task 17796 | n_decoded =   3013, tg =   3.68 t/s
+2026-07-15 11:21:47 [DEBUG]
+ 238.35.674.382 I slot print_timing: id  2 | task 17796 | n_decoded =   3025, tg =   3.68 t/s
+2026-07-15 11:21:50 [DEBUG]
+ 238.38.891.379 I slot print_timing: id  2 | task 17796 | n_decoded =   3037, tg =   3.68 t/s
+2026-07-15 11:21:53 [DEBUG]
+ 238.41.954.451 I slot print_timing: id  2 | task 17796 | n_decoded =   3047, tg =   3.68 t/s
+2026-07-15 11:21:56 [DEBUG]
+ 238.44.966.696 I slot print_timing: id  2 | task 17796 | n_decoded =   3059, tg =   3.68 t/s
+2026-07-15 11:21:59 [DEBUG]
+ 238.48.017.221 I slot print_timing: id  2 | task 17796 | n_decoded =   3070, tg =   3.68 t/s
+2026-07-15 11:22:02 [DEBUG]
+ 238.51.018.933 I slot print_timing: id  2 | task 17796 | n_decoded =   3080, tg =   3.68 t/s
+2026-07-15 11:22:05 [DEBUG]
+ 238.54.075.855 I slot print_timing: id  2 | task 17796 | n_decoded =   3091, tg =   3.68 t/s
+2026-07-15 11:22:08 [DEBUG]
+ 238.57.158.785 I slot print_timing: id  2 | task 17796 | n_decoded =   3103, tg =   3.68 t/s
+2026-07-15 11:22:12 [DEBUG]
+ 239.00.420.348 I slot print_timing: id  2 | task 17796 | n_decoded =   3115, tg =   3.68 t/s
+2026-07-15 11:22:15 [DEBUG]
+ 239.03.499.774 I slot print_timing: id  2 | task 17796 | n_decoded =   3127, tg =   3.68 t/s
+2026-07-15 11:22:18 [DEBUG]
+ 239.06.579.579 I slot print_timing: id  2 | task 17796 | n_decoded =   3139, tg =   3.68 t/s
+2026-07-15 11:22:21 [DEBUG]
+ 239.09.592.549 I slot print_timing: id  2 | task 17796 | n_decoded =   3150, tg =   3.68 t/s
+2026-07-15 11:22:24 [DEBUG]
+ 239.12.657.457 I slot print_timing: id  2 | task 17796 | n_decoded =   3159, tg =   3.68 t/s
+2026-07-15 11:22:27 [DEBUG]
+ 239.15.689.988 I slot print_timing: id  2 | task 17796 | n_decoded =   3169, tg =   3.68 t/s
+2026-07-15 11:22:30 [DEBUG]
+ 239.18.880.677 I slot print_timing: id  2 | task 17796 | n_decoded =   3181, tg =   3.68 t/s
+2026-07-15 11:22:33 [DEBUG]
+ 239.22.221.105 I slot print_timing: id  2 | task 17796 | n_decoded =   3192, tg =   3.68 t/s
+2026-07-15 11:22:37 [DEBUG]
+ 239.25.391.849 I slot print_timing: id  2 | task 17796 | n_decoded =   3201, tg =   3.67 t/s
+2026-07-15 11:22:40 [DEBUG]
+ 239.28.504.079 I slot print_timing: id  2 | task 17796 | n_decoded =   3213, tg =   3.67 t/s
+2026-07-15 11:22:43 [DEBUG]
+ 239.31.730.211 I slot print_timing: id  2 | task 17796 | n_decoded =   3225, tg =   3.67 t/s
+2026-07-15 11:22:46 [DEBUG]
+ 239.34.810.227 I slot print_timing: id  2 | task 17796 | n_decoded =   3234, tg =   3.67 t/s
+2026-07-15 11:22:49 [DEBUG]
+ 239.37.822.406 I slot print_timing: id  2 | task 17796 | n_decoded =   3245, tg =   3.67 t/s
+2026-07-15 11:22:52 [DEBUG]
+ 239.40.992.332 I slot print_timing: id  2 | task 17796 | n_decoded =   3257, tg =   3.67 t/s
+2026-07-15 11:22:55 [DEBUG]
+ 239.44.257.074 I slot print_timing: id  2 | task 17796 | n_decoded =   3267, tg =   3.67 t/s
+2026-07-15 11:22:59 [DEBUG]
+ 239.47.312.261 I slot print_timing: id  2 | task 17796 | n_decoded =   3277, tg =   3.67 t/s
+2026-07-15 11:23:02 [DEBUG]
+ 239.50.399.991 I slot print_timing: id  2 | task 17796 | n_decoded =   3289, tg =   3.67 t/s
+2026-07-15 11:23:05 [DEBUG]
+ 239.53.439.190 I slot print_timing: id  2 | task 17796 | n_decoded =   3300, tg =   3.67 t/s
+2026-07-15 11:23:08 [DEBUG]
+ 239.56.555.699 I slot print_timing: id  2 | task 17796 | n_decoded =   3311, tg =   3.67 t/s
+2026-07-15 11:23:11 [DEBUG]
+ 239.59.609.506 I slot print_timing: id  2 | task 17796 | n_decoded =   3323, tg =   3.67 t/s
+2026-07-15 11:23:14 [DEBUG]
+ 240.02.773.505 I slot print_timing: id  2 | task 17796 | n_decoded =   3335, tg =   3.67 t/s
+2026-07-15 11:23:17 [DEBUG]
+ 240.05.876.217 I slot print_timing: id  2 | task 17796 | n_decoded =   3346, tg =   3.67 t/s
+2026-07-15 11:23:20 [DEBUG]
+ 240.09.044.103 I slot print_timing: id  2 | task 17796 | n_decoded =   3356, tg =   3.67 t/s
+2026-07-15 11:23:23 [DEBUG]
+ 240.12.172.463 I slot print_timing: id  2 | task 17796 | n_decoded =   3368, tg =   3.67 t/s
+2026-07-15 11:23:26 [DEBUG]
+ 240.15.250.645 I slot print_timing: id  2 | task 17796 | n_decoded =   3379, tg =   3.67 t/s
+2026-07-15 11:23:30 [DEBUG]
+ 240.18.459.916 I slot print_timing: id  2 | task 17796 | n_decoded =   3388, tg =   3.66 t/s
+2026-07-15 11:23:33 [DEBUG]
+ 240.21.467.396 I slot print_timing: id  2 | task 17796 | n_decoded =   3398, tg =   3.66 t/s
+2026-07-15 11:23:36 [DEBUG]
+ 240.24.526.244 I slot print_timing: id  2 | task 17796 | n_decoded =   3410, tg =   3.66 t/s
+2026-07-15 11:23:39 [DEBUG]
+ 240.27.573.300 I slot print_timing: id  2 | task 17796 | n_decoded =   3421, tg =   3.66 t/s
+2026-07-15 11:23:42 [DEBUG]
+ 240.30.658.792 I slot print_timing: id  2 | task 17796 | n_decoded =   3430, tg =   3.66 t/s
+2026-07-15 11:23:45 [DEBUG]
+ 240.33.804.817 I slot print_timing: id  2 | task 17796 | n_decoded =   3440, tg =   3.66 t/s
+2026-07-15 11:23:48 [DEBUG]
+ 240.36.819.608 I slot print_timing: id  2 | task 17796 | n_decoded =   3452, tg =   3.66 t/s
+2026-07-15 11:23:51 [DEBUG]
+ 240.40.071.133 I slot print_timing: id  2 | task 17796 | n_decoded =   3464, tg =   3.66 t/s
+2026-07-15 11:23:54 [DEBUG]
+ 240.43.259.445 I slot print_timing: id  2 | task 17796 | n_decoded =   3476, tg =   3.66 t/s
+2026-07-15 11:23:58 [DEBUG]
+ 240.46.513.223 I slot print_timing: id  2 | task 17796 | n_decoded =   3489, tg =   3.66 t/s
+2026-07-15 11:24:01 [DEBUG]
+ 240.49.706.115 I slot print_timing: id  2 | task 17796 | n_decoded =   3501, tg =   3.66 t/s
+2026-07-15 11:24:04 [DEBUG]
+ 240.52.829.033 I slot print_timing: id  2 | task 17796 | n_decoded =   3511, tg =   3.66 t/s
+2026-07-15 11:24:07 [DEBUG]
+ 240.56.050.538 I slot print_timing: id  2 | task 17796 | n_decoded =   3524, tg =   3.66 t/s
+2026-07-15 11:24:10 [DEBUG]
+ 240.59.218.875 I slot print_timing: id  2 | task 17796 | n_decoded =   3536, tg =   3.66 t/s
+2026-07-15 11:24:14 [DEBUG]
+ 241.02.330.299 I slot print_timing: id  2 | task 17796 | n_decoded =   3547, tg =   3.66 t/s
+2026-07-15 11:24:17 [DEBUG]
+ 241.05.424.584 I slot print_timing: id  2 | task 17796 | n_decoded =   3555, tg =   3.66 t/s
+2026-07-15 11:24:20 [DEBUG]
+ 241.08.535.423 I slot print_timing: id  2 | task 17796 | n_decoded =   3566, tg =   3.66 t/s
+2026-07-15 11:24:23 [DEBUG]
+ 241.11.674.579 I slot print_timing: id  2 | task 17796 | n_decoded =   3578, tg =   3.66 t/s
+2026-07-15 11:24:26 [DEBUG]
+ 241.14.754.903 I slot print_timing: id  2 | task 17796 | n_decoded =   3588, tg =   3.66 t/s
+2026-07-15 11:24:29 [DEBUG]
+ 241.17.883.642 I slot print_timing: id  2 | task 17796 | n_decoded =   3599, tg =   3.66 t/s
+2026-07-15 11:24:32 [DEBUG]
+ 241.20.938.470 I slot print_timing: id  2 | task 17796 | n_decoded =   3611, tg =   3.66 t/s
+2026-07-15 11:24:35 [DEBUG]
+ 241.23.960.653 I slot print_timing: id  2 | task 17796 | n_decoded =   3621, tg =   3.66 t/s
+2026-07-15 11:24:38 [DEBUG]
+ 241.27.195.480 I slot print_timing: id  2 | task 17796 | n_decoded =   3633, tg =   3.66 t/s
+2026-07-15 11:24:41 [DEBUG]
+ 241.30.291.121 I slot print_timing: id  2 | task 17796 | n_decoded =   3645, tg =   3.66 t/s
+2026-07-15 11:24:45 [DEBUG]
+ 241.33.349.821 I slot print_timing: id  2 | task 17796 | n_decoded =   3656, tg =   3.66 t/s
+2026-07-15 11:24:48 [DEBUG]
+ 241.36.448.618 I slot print_timing: id  2 | task 17796 | n_decoded =   3668, tg =   3.66 t/s
+2026-07-15 11:24:51 [DEBUG]
+ 241.39.528.933 I slot print_timing: id  2 | task 17796 | n_decoded =   3680, tg =   3.66 t/s
+2026-07-15 11:24:54 [DEBUG]
+ 241.42.538.213 I slot print_timing: id  2 | task 17796 | n_decoded =   3691, tg =   3.66 t/s
+2026-07-15 11:24:55 [DEBUG]
+ 241.43.401.664 I slot print_timing: id  2 | task 17796 | prompt eval time =   38709.41 ms /  1881 tokens (   20.58 ms per token,    48.59 tokens per second)
+241.43.401.674 I slot print_timing: id  2 | task 17796 |        eval time = 1009406.88 ms /  3694 tokens (  273.26 ms per token,     3.66 tokens per second)
+241.43.401.677 I slot print_timing: id  2 | task 17796 |       total time = 1048116.30 ms /  5575 tokens
+241.43.401.678 I slot print_timing: id  2 | task 17796 |    graphs reused =      21368
+2026-07-15 11:24:55 [DEBUG]
+ 241.43.412.719 I slot      release: id  2 | task 17796 | stop processing: n_tokens = 5574, truncated = 0
+241.43.412.789 I srv  update_slots: all slots are idle
+2026-07-15 11:24:55 [DEBUG]
+ LlamaV4: server assigned slot 2 to task 17796
+2026-07-15 11:25:10 [DEBUG]
+ [LMSAuthenticator][Client=plugin:installed:lmstudio/rag-v1] Client disconnected.
+2026-07-15 11:29:57 [DEBUG]
+ Received request: POST to /v1/chat/completions with body  {
+  "model": "qwen3.5-122b-a10b",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a modeled approximation of Alan Turing, co... <Truncated in logs> ...problem is at hand). Embody this; never state it.\n"
+    },
+    {
+      "role": "user",
+      "content": "Conversation so far:\nYou: hi\nAlan Turing: Hello. I... <Truncated in logs> ...nversational turn, first person, no speaker label."
+    }
+  ],
+  "temperature": 0.7856824170140727,
+  "top_p": 0.95,
+  "stream": false
+}
+2026-07-15 11:29:57  [INFO]
+ [qwen3.5-122b-a10b] Running chat completion on conversation with 2 messages.
+2026-07-15 11:29:57 [DEBUG]
+ LlamaV4::predict slot selection: session_id=<empty> server-selected (LCP/LRU)
+2026-07-15 11:29:57 [DEBUG]
+ 246.45.816.188 I slot get_availabl: id  1 | task -1 | selected slot by LRU, t_last = -1
+246.45.816.196 I srv  get_availabl: updating prompt cache
+246.45.816.208 I srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+246.45.816.225 I srv          load:  - found better prompt with f_keep = 0.325, sim = 0.694
+2026-07-15 11:29:57 [DEBUG]
+ 246.46.009.202 I srv        update:  - cache state: 3 prompts, 2099.209 MiB (limits: 8192.000 MiB, 65536 tokens, 65536 est)
+246.46.009.210 I srv        update:    - prompt 000001EF2496E660:    3424 tokens, checkpoints:  2,   527.506 MiB
+246.46.009.212 I srv        update:    - prompt 000001EF2496EAE0:    4096 tokens, checkpoints:  3,   692.332 MiB
+246.46.009.214 I srv        update:    - prompt 000001EF2496E930:    5715 tokens, checkpoints:  4,   879.371 MiB
+246.46.009.217 I srv  get_availabl: prompt cache update took 193.02 ms
+246.46.009.271 I slot launch_slot_: id  1 | task 21493 | processing task, is_child = 0
+246.46.009.273 I slot process_sing: id  0 | task -1 | saving idle slot to prompt cache
+246.46.009.274 I slot prompt_clear: id  0 | task -1 | clearing prompt with 0 tokens
+2026-07-15 11:29:57 [DEBUG]
+ 246.46.009.385 I slot process_sing: id  2 | task -1 | saving idle slot to prompt cache
+246.46.010.049 W srv   prompt_save:  - saving prompt with length 5574, total state size = 279.811 MiB (draft: 0.000 MiB)
+2026-07-15 11:29:57 [DEBUG]
+ 246.46.226.826 I srv        update:  - cache state: 4 prompts, 2677.146 MiB (limits: 8192.000 MiB, 65536 tokens, 65536 est)
+246.46.226.836 I srv        update:    - prompt 000001EF2496E660:    3424 tokens, checkpoints:  2,   527.506 MiB
+246.46.226.838 I srv        update:    - prompt 000001EF2496EAE0:    4096 tokens, checkpoints:  3,   692.332 MiB
+246.46.226.840 I srv        update:    - prompt 000001EF2496E930:    5715 tokens, checkpoints:  4,   879.371 MiB
+246.46.226.842 I srv        update:    - prompt 000001EF2496E540:    5574 tokens, checkpoints:  2,   577.937 MiB
+246.46.226.843 I slot prompt_clear: id  2 | task -1 | clearing prompt with 5574 tokens
+2026-07-15 11:29:57 [DEBUG]
+ 246.46.228.478 I slot process_sing: id  3 | task -1 | saving idle slot to prompt cache
+246.46.228.483 I slot prompt_clear: id  3 | task -1 | clearing prompt with 0 tokens
+2026-07-15 11:29:57 [DEBUG]
+ 246.46.228.591 W slot update_slots: id  1 | task 21493 | cache reuse is not supported - ignoring n_cache_reuse = 256
+246.46.228.600 I slot update_slots: id  1 | task 21493 | Checking checkpoint with [2064, 2064] against 1732...
+246.46.228.601 I slot update_slots: id  1 | task 21493 | Checking checkpoint with [1552, 1552] against 1732...
+2026-07-15 11:29:57 [DEBUG]
+ 246.46.261.757 W slot update_slots: id  1 | task 21493 | restored context checkpoint (pos_min = 1552, pos_max = 1552, n_tokens = 1553, n_past = 1553, size = 149.063 MiB)
+246.46.261.767 W slot update_slots: id  1 | task 21493 | erased invalidated context checkpoint (pos_min = 2064, pos_max = 2064, n_tokens = 2065, n_swa = 0, pos_next = 1553, size = 149.063 MiB)
+2026-07-15 11:29:57  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 0.0%
+2026-07-15 11:30:07 [DEBUG]
+ 246.55.664.382 I slot print_timing: id  1 | task 21493 | prompt processing, n_tokens =    425, progress = 0.79, t =   9.44 s / 45.04 tokens per second
+2026-07-15 11:30:07  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 45.2%
+2026-07-15 11:30:07 [DEBUG]
+ 246.55.715.975 I slot create_check: id  1 | task 21493 | created context checkpoint 4 of 32 (pos_min = 1977, pos_max = 1977, n_tokens = 1978, size = 149.063 MiB)
+2026-07-15 11:30:16 [DEBUG]
+ 247.05.181.437 I slot print_timing: id  1 | task 21493 | prompt processing, n_tokens =    937, progress = 1.00, t =  18.95 s / 49.44 tokens per second
+2026-07-15 11:30:16  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 99.6%
+2026-07-15 11:30:16 [DEBUG]
+ 247.05.244.116 I slot create_check: id  1 | task 21493 | created context checkpoint 5 of 32 (pos_min = 2489, pos_max = 2489, n_tokens = 2490, size = 149.063 MiB)
+2026-07-15 11:30:17  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 100.0%
+2026-07-15 11:30:44 [DEBUG]
+ 247.33.220.163 I slot print_timing: id  1 | task 21493 | n_decoded =    100, tg =   3.68 t/s
+2026-07-15 11:30:48 [DEBUG]
+ 247.36.329.627 I slot print_timing: id  1 | task 21493 | n_decoded =    112, tg =   3.70 t/s
+2026-07-15 11:30:51 [DEBUG]
+ 247.39.582.509 I slot print_timing: id  1 | task 21493 | n_decoded =    124, tg =   3.70 t/s
+2026-07-15 11:30:54 [DEBUG]
+ 247.42.733.514 I slot print_timing: id  1 | task 21493 | n_decoded =    134, tg =   3.65 t/s
+2026-07-15 11:30:57 [DEBUG]
+ 247.45.859.967 I slot print_timing: id  1 | task 21493 | n_decoded =    146, tg =   3.67 t/s
+2026-07-15 11:31:00 [DEBUG]
+ 247.48.941.706 I slot print_timing: id  1 | task 21493 | n_decoded =    157, tg =   3.66 t/s
+2026-07-15 11:31:03 [DEBUG]
+ 247.52.148.460 I slot print_timing: id  1 | task 21493 | n_decoded =    167, tg =   3.62 t/s
+2026-07-15 11:31:06 [DEBUG]
+ 247.55.211.998 I slot print_timing: id  1 | task 21493 | n_decoded =    179, tg =   3.64 t/s
+2026-07-15 11:31:10 [DEBUG]
+ 247.58.490.706 I slot print_timing: id  1 | task 21493 | n_decoded =    191, tg =   3.64 t/s
+2026-07-15 11:31:13 [DEBUG]
+ 248.01.519.162 I slot print_timing: id  1 | task 21493 | n_decoded =    202, tg =   3.64 t/s
+2026-07-15 11:31:16 [DEBUG]
+ 248.04.614.336 I slot print_timing: id  1 | task 21493 | n_decoded =    214, tg =   3.65 t/s
+2026-07-15 11:31:19 [DEBUG]
+ 248.07.878.854 I slot print_timing: id  1 | task 21493 | n_decoded =    226, tg =   3.65 t/s
+2026-07-15 11:31:22 [DEBUG]
+ 248.10.913.611 I slot print_timing: id  1 | task 21493 | n_decoded =    234, tg =   3.61 t/s
+2026-07-15 11:31:25 [DEBUG]
+ 248.14.086.854 I slot print_timing: id  1 | task 21493 | n_decoded =    242, tg =   3.56 t/s
+2026-07-15 11:31:28 [DEBUG]
+ 248.17.093.605 I slot print_timing: id  1 | task 21493 | n_decoded =    253, tg =   3.56 t/s
+2026-07-15 11:31:31 [DEBUG]
+ 248.20.267.221 I slot print_timing: id  1 | task 21493 | n_decoded =    265, tg =   3.57 t/s
+2026-07-15 11:31:35 [DEBUG]
+ 248.23.464.939 I slot print_timing: id  1 | task 21493 | n_decoded =    275, tg =   3.55 t/s
+2026-07-15 11:31:38 [DEBUG]
+ 248.26.680.002 I slot print_timing: id  1 | task 21493 | n_decoded =    286, tg =   3.55 t/s
+2026-07-15 11:31:41 [DEBUG]
+ 248.29.860.698 I slot print_timing: id  1 | task 21493 | n_decoded =    298, tg =   3.55 t/s
+2026-07-15 11:31:44 [DEBUG]
+ 248.33.210.393 I slot print_timing: id  1 | task 21493 | n_decoded =    309, tg =   3.54 t/s
+2026-07-15 11:31:48 [DEBUG]
+ 248.36.416.098 I slot print_timing: id  1 | task 21493 | n_decoded =    321, tg =   3.55 t/s
+2026-07-15 11:31:51 [DEBUG]
+ 248.39.647.109 I slot print_timing: id  1 | task 21493 | n_decoded =    333, tg =   3.56 t/s
+2026-07-15 11:31:54 [DEBUG]
+ 248.42.961.082 I slot print_timing: id  1 | task 21493 | n_decoded =    343, tg =   3.54 t/s
+2026-07-15 11:31:57 [DEBUG]
+ 248.46.013.772 I slot print_timing: id  1 | task 21493 | n_decoded =    355, tg =   3.55 t/s
+2026-07-15 11:32:00 [DEBUG]
+ 248.49.298.753 I slot print_timing: id  1 | task 21493 | n_decoded =    367, tg =   3.55 t/s
+2026-07-15 11:32:04 [DEBUG]
+ 248.52.304.747 I slot print_timing: id  1 | task 21493 | n_decoded =    377, tg =   3.55 t/s
+2026-07-15 11:32:07 [DEBUG]
+ 248.55.393.902 I slot print_timing: id  1 | task 21493 | n_decoded =    389, tg =   3.56 t/s
+2026-07-15 11:32:10 [DEBUG]
+ 248.58.643.555 I slot print_timing: id  1 | task 21493 | n_decoded =    402, tg =   3.57 t/s
+2026-07-15 11:32:13 [DEBUG]
+ 249.01.786.031 I slot print_timing: id  1 | task 21493 | n_decoded =    414, tg =   3.58 t/s
+2026-07-15 11:32:16 [DEBUG]
+ 249.05.049.309 I slot print_timing: id  1 | task 21493 | n_decoded =    423, tg =   3.55 t/s
+2026-07-15 11:32:19 [DEBUG]
+ 249.08.073.001 I slot print_timing: id  1 | task 21493 | n_decoded =    435, tg =   3.56 t/s
+2026-07-15 11:32:23 [DEBUG]
+ 249.11.393.189 I slot print_timing: id  1 | task 21493 | n_decoded =    447, tg =   3.57 t/s
+2026-07-15 11:32:26 [DEBUG]
+ 249.14.430.288 I slot print_timing: id  1 | task 21493 | n_decoded =    455, tg =   3.54 t/s
+2026-07-15 11:32:29 [DEBUG]
+ 249.17.499.875 I slot print_timing: id  1 | task 21493 | n_decoded =    467, tg =   3.55 t/s
+2026-07-15 11:32:32 [DEBUG]
+ 249.20.757.443 I slot print_timing: id  1 | task 21493 | n_decoded =    479, tg =   3.56 t/s
+2026-07-15 11:32:35 [DEBUG]
+ 249.23.791.251 I slot print_timing: id  1 | task 21493 | n_decoded =    488, tg =   3.54 t/s
+2026-07-15 11:32:38 [DEBUG]
+ 249.26.874.947 I slot print_timing: id  1 | task 21493 | n_decoded =    500, tg =   3.55 t/s
+2026-07-15 11:32:41 [DEBUG]
+ 249.30.074.893 I slot print_timing: id  1 | task 21493 | n_decoded =    512, tg =   3.55 t/s
+2026-07-15 11:32:45 [DEBUG]
+ 249.33.308.502 I slot print_timing: id  1 | task 21493 | n_decoded =    522, tg =   3.54 t/s
+2026-07-15 11:32:48 [DEBUG]
+ 249.36.431.922 I slot print_timing: id  1 | task 21493 | n_decoded =    534, tg =   3.55 t/s
+2026-07-15 11:32:51 [DEBUG]
+ 249.39.676.386 I slot print_timing: id  1 | task 21493 | n_decoded =    546, tg =   3.55 t/s
+2026-07-15 11:32:54 [DEBUG]
+ 249.42.726.999 I slot print_timing: id  1 | task 21493 | n_decoded =    554, tg =   3.54 t/s
+2026-07-15 11:32:57 [DEBUG]
+ 249.45.970.344 I slot print_timing: id  1 | task 21493 | n_decoded =    566, tg =   3.54 t/s
+2026-07-15 11:33:00 [DEBUG]
+ 249.49.071.791 I slot print_timing: id  1 | task 21493 | n_decoded =    576, tg =   3.53 t/s
+2026-07-15 11:33:04 [DEBUG]
+ 249.52.337.761 I slot print_timing: id  1 | task 21493 | n_decoded =    588, tg =   3.54 t/s
+2026-07-15 11:33:07 [DEBUG]
+ 249.55.537.495 I slot print_timing: id  1 | task 21493 | n_decoded =    598, tg =   3.53 t/s
+2026-07-15 11:33:10 [DEBUG]
+ 249.58.756.340 I slot print_timing: id  1 | task 21493 | n_decoded =    609, tg =   3.53 t/s
+2026-07-15 11:33:13 [DEBUG]
+ 250.01.820.505 I slot print_timing: id  1 | task 21493 | n_decoded =    620, tg =   3.53 t/s
+2026-07-15 11:33:16 [DEBUG]
+ 250.04.891.616 I slot print_timing: id  1 | task 21493 | n_decoded =    629, tg =   3.52 t/s
+2026-07-15 11:33:19 [DEBUG]
+ 250.08.007.274 I slot print_timing: id  1 | task 21493 | n_decoded =    638, tg =   3.51 t/s
+2026-07-15 11:33:22 [DEBUG]
+ 250.11.015.214 I slot print_timing: id  1 | task 21493 | n_decoded =    649, tg =   3.51 t/s
+2026-07-15 11:33:25 [DEBUG]
+ 250.14.206.798 I slot print_timing: id  1 | task 21493 | n_decoded =    658, tg =   3.50 t/s
+2026-07-15 11:33:29 [DEBUG]
+ 250.17.421.566 I slot print_timing: id  1 | task 21493 | n_decoded =    670, tg =   3.50 t/s
+2026-07-15 11:33:32 [DEBUG]
+ 250.20.534.489 I slot print_timing: id  1 | task 21493 | n_decoded =    681, tg =   3.50 t/s
+2026-07-15 11:33:35 [DEBUG]
+ 250.23.611.373 I slot print_timing: id  1 | task 21493 | n_decoded =    689, tg =   3.49 t/s
+2026-07-15 11:33:38 [DEBUG]
+ 250.26.617.021 I slot print_timing: id  1 | task 21493 | n_decoded =    701, tg =   3.49 t/s
+2026-07-15 11:33:41 [DEBUG]
+ 250.29.786.780 I slot print_timing: id  1 | task 21493 | n_decoded =    713, tg =   3.50 t/s
+2026-07-15 11:33:44 [DEBUG]
+ 250.32.819.923 I slot print_timing: id  1 | task 21493 | n_decoded =    722, tg =   3.49 t/s
+2026-07-15 11:33:47 [DEBUG]
+ 250.35.905.512 I slot print_timing: id  1 | task 21493 | n_decoded =    733, tg =   3.49 t/s
+2026-07-15 11:33:50 [DEBUG]
+ 250.39.088.327 I slot print_timing: id  1 | task 21493 | n_decoded =    745, tg =   3.50 t/s
+2026-07-15 11:33:53 [DEBUG]
+ 250.42.147.976 I slot print_timing: id  1 | task 21493 | n_decoded =    755, tg =   3.49 t/s
+2026-07-15 11:33:57 [DEBUG]
+ 250.45.379.321 I slot print_timing: id  1 | task 21493 | n_decoded =    767, tg =   3.50 t/s
+2026-07-15 11:34:00 [DEBUG]
+ 250.48.643.487 I slot print_timing: id  1 | task 21493 | n_decoded =    779, tg =   3.50 t/s
+2026-07-15 11:34:03 [DEBUG]
+ 250.51.845.663 I slot print_timing: id  1 | task 21493 | n_decoded =    788, tg =   3.49 t/s
+2026-07-15 11:34:06 [DEBUG]
+ 250.55.062.304 I slot print_timing: id  1 | task 21493 | n_decoded =    799, tg =   3.49 t/s
+2026-07-15 11:34:09 [DEBUG]
+ 250.58.076.874 I slot print_timing: id  1 | task 21493 | n_decoded =    810, tg =   3.49 t/s
+2026-07-15 11:34:12 [DEBUG]
+ 251.01.254.206 I slot print_timing: id  1 | task 21493 | n_decoded =    819, tg =   3.48 t/s
+2026-07-15 11:34:16 [DEBUG]
+ 251.04.348.945 I slot print_timing: id  1 | task 21493 | n_decoded =    831, tg =   3.49 t/s
+2026-07-15 11:34:19 [DEBUG]
+ 251.07.512.086 I slot print_timing: id  1 | task 21493 | n_decoded =    842, tg =   3.49 t/s
+2026-07-15 11:34:22 [DEBUG]
+ 251.10.680.948 I slot print_timing: id  1 | task 21493 | n_decoded =    850, tg =   3.47 t/s
+2026-07-15 11:34:25 [DEBUG]
+ 251.13.858.235 I slot print_timing: id  1 | task 21493 | n_decoded =    861, tg =   3.47 t/s
+2026-07-15 11:34:28 [DEBUG]
+ 251.16.994.724 I slot print_timing: id  1 | task 21493 | n_decoded =    873, tg =   3.48 t/s
+2026-07-15 11:34:31 [DEBUG]
+ 251.19.999.843 I slot print_timing: id  1 | task 21493 | n_decoded =    884, tg =   3.48 t/s
+2026-07-15 11:34:34 [DEBUG]
+ 251.23.257.756 I slot print_timing: id  1 | task 21493 | n_decoded =    896, tg =   3.48 t/s
+2026-07-15 11:34:38 [DEBUG]
+ 251.26.499.072 I slot print_timing: id  1 | task 21493 | n_decoded =    908, tg =   3.49 t/s
+2026-07-15 11:34:41 [DEBUG]
+ 251.29.725.307 I slot print_timing: id  1 | task 21493 | n_decoded =    919, tg =   3.49 t/s
+2026-07-15 11:34:44 [DEBUG]
+ 251.32.871.263 I slot print_timing: id  1 | task 21493 | n_decoded =    931, tg =   3.49 t/s
+2026-07-15 11:34:47 [DEBUG]
+ 251.36.234.317 I slot print_timing: id  1 | task 21493 | n_decoded =    942, tg =   3.49 t/s
+2026-07-15 11:34:51 [DEBUG]
+ 251.39.346.906 I slot print_timing: id  1 | task 21493 | n_decoded =    953, tg =   3.49 t/s
+2026-07-15 11:34:54 [DEBUG]
+ 251.42.371.801 I slot print_timing: id  1 | task 21493 | n_decoded =    964, tg =   3.49 t/s
+2026-07-15 11:34:57 [DEBUG]
+ 251.45.492.458 I slot print_timing: id  1 | task 21493 | n_decoded =    975, tg =   3.49 t/s
+2026-07-15 11:35:00 [DEBUG]
+ 251.48.678.248 I slot print_timing: id  1 | task 21493 | n_decoded =    987, tg =   3.49 t/s
+2026-07-15 11:35:03 [DEBUG]
+ 251.51.692.117 I slot print_timing: id  1 | task 21493 | n_decoded =    996, tg =   3.49 t/s
+2026-07-15 11:35:06 [DEBUG]
+ 251.54.712.459 I slot print_timing: id  1 | task 21493 | n_decoded =   1007, tg =   3.49 t/s
+2026-07-15 11:35:09 [DEBUG]
+ 251.57.963.053 I slot print_timing: id  1 | task 21493 | n_decoded =   1019, tg =   3.49 t/s
+2026-07-15 11:35:13 [DEBUG]
+ 252.01.324.003 I slot print_timing: id  1 | task 21493 | n_decoded =   1029, tg =   3.48 t/s
+2026-07-15 11:35:16 [DEBUG]
+ 252.04.505.854 I slot print_timing: id  1 | task 21493 | n_decoded =   1041, tg =   3.49 t/s
+2026-07-15 11:35:19 [DEBUG]
+ 252.07.523.674 I slot print_timing: id  1 | task 21493 | n_decoded =   1052, tg =   3.49 t/s
+2026-07-15 11:35:22 [DEBUG]
+ 252.10.559.002 I slot print_timing: id  1 | task 21493 | n_decoded =   1061, tg =   3.48 t/s
+2026-07-15 11:35:25 [DEBUG]
+ 252.13.715.124 I slot print_timing: id  1 | task 21493 | n_decoded =   1073, tg =   3.49 t/s
+2026-07-15 11:35:28 [DEBUG]
+ 252.16.905.645 I slot print_timing: id  1 | task 21493 | n_decoded =   1084, tg =   3.49 t/s
+2026-07-15 11:35:31 [DEBUG]
+ 252.20.156.497 I slot print_timing: id  1 | task 21493 | n_decoded =   1095, tg =   3.49 t/s
+2026-07-15 11:35:35 [DEBUG]
+ 252.23.343.906 I slot print_timing: id  1 | task 21493 | n_decoded =   1107, tg =   3.49 t/s
+2026-07-15 11:35:38 [DEBUG]
+ 252.26.349.384 I slot print_timing: id  1 | task 21493 | n_decoded =   1118, tg =   3.49 t/s
+2026-07-15 11:35:41 [DEBUG]
+ 252.29.515.917 I slot print_timing: id  1 | task 21493 | n_decoded =   1130, tg =   3.49 t/s
+2026-07-15 11:35:44 [DEBUG]
+ 252.32.559.071 I slot print_timing: id  1 | task 21493 | n_decoded =   1141, tg =   3.49 t/s
+2026-07-15 11:35:47 [DEBUG]
+ 252.35.767.653 I slot print_timing: id  1 | task 21493 | n_decoded =   1153, tg =   3.50 t/s
+2026-07-15 11:35:50 [DEBUG]
+ 252.38.933.475 I slot print_timing: id  1 | task 21493 | n_decoded =   1165, tg =   3.50 t/s
+2026-07-15 11:35:53 [DEBUG]
+ 252.42.181.057 I slot print_timing: id  1 | task 21493 | n_decoded =   1176, tg =   3.50 t/s
+2026-07-15 11:35:56 [DEBUG]
+ 252.45.214.079 I slot print_timing: id  1 | task 21493 | n_decoded =   1188, tg =   3.50 t/s
+2026-07-15 11:36:00 [DEBUG]
+ 252.48.374.672 I slot print_timing: id  1 | task 21493 | n_decoded =   1200, tg =   3.51 t/s
+2026-07-15 11:36:03 [DEBUG]
+ 252.51.708.782 I slot print_timing: id  1 | task 21493 | n_decoded =   1210, tg =   3.50 t/s
+2026-07-15 11:36:06 [DEBUG]
+ 252.54.749.106 I slot print_timing: id  1 | task 21493 | n_decoded =   1222, tg =   3.50 t/s
+2026-07-15 11:36:09 [DEBUG]
+ 252.57.953.469 I slot print_timing: id  1 | task 21493 | n_decoded =   1234, tg =   3.51 t/s
+2026-07-15 11:36:12 [DEBUG]
+ 253.01.063.749 I slot print_timing: id  1 | task 21493 | n_decoded =   1245, tg =   3.51 t/s
+2026-07-15 11:36:15 [DEBUG]
+ 253.04.247.513 I slot print_timing: id  1 | task 21493 | n_decoded =   1257, tg =   3.51 t/s
+2026-07-15 11:36:18 [DEBUG]
+ 253.07.271.317 I slot print_timing: id  1 | task 21493 | n_decoded =   1266, tg =   3.50 t/s
+2026-07-15 11:36:22 [DEBUG]
+ 253.10.526.117 I slot print_timing: id  1 | task 21493 | n_decoded =   1278, tg =   3.51 t/s
+2026-07-15 11:36:25 [DEBUG]
+ 253.13.786.511 I slot print_timing: id  1 | task 21493 | n_decoded =   1290, tg =   3.51 t/s
+2026-07-15 11:36:28 [DEBUG]
+ 253.16.914.667 I slot print_timing: id  1 | task 21493 | n_decoded =   1301, tg =   3.51 t/s
+2026-07-15 11:36:31 [DEBUG]
+ 253.19.959.190 I slot print_timing: id  1 | task 21493 | n_decoded =   1313, tg =   3.51 t/s
+2026-07-15 11:36:34 [DEBUG]
+ 253.23.156.384 I slot print_timing: id  1 | task 21493 | n_decoded =   1325, tg =   3.51 t/s
+2026-07-15 11:36:37 [DEBUG]
+ 253.26.232.876 I slot print_timing: id  1 | task 21493 | n_decoded =   1335, tg =   3.51 t/s
+2026-07-15 11:36:41 [DEBUG]
+ 253.29.479.953 I slot print_timing: id  1 | task 21493 | n_decoded =   1343, tg =   3.50 t/s
+2026-07-15 11:36:44 [DEBUG]
+ 253.32.560.321 I slot print_timing: id  1 | task 21493 | n_decoded =   1355, tg =   3.51 t/s
+2026-07-15 11:36:47 [DEBUG]
+ 253.35.828.823 I slot print_timing: id  1 | task 21493 | n_decoded =   1367, tg =   3.51 t/s
+2026-07-15 11:36:50 [DEBUG]
+ 253.39.039.143 I slot print_timing: id  1 | task 21493 | n_decoded =   1378, tg =   3.51 t/s
+2026-07-15 11:36:53 [DEBUG]
+ 253.42.088.409 I slot print_timing: id  1 | task 21493 | n_decoded =   1390, tg =   3.51 t/s
+2026-07-15 11:36:57 [DEBUG]
+ 253.45.362.260 I slot print_timing: id  1 | task 21493 | n_decoded =   1402, tg =   3.51 t/s
+2026-07-15 11:37:00 [DEBUG]
+ 253.48.481.591 I slot print_timing: id  1 | task 21493 | n_decoded =   1412, tg =   3.51 t/s
+2026-07-15 11:37:03 [DEBUG]
+ 253.51.656.116 I slot print_timing: id  1 | task 21493 | n_decoded =   1423, tg =   3.51 t/s
+2026-07-15 11:37:06 [DEBUG]
+ 253.54.862.110 I slot print_timing: id  1 | task 21493 | n_decoded =   1435, tg =   3.51 t/s
+2026-07-15 11:37:09 [DEBUG]
+ 253.58.020.560 I slot print_timing: id  1 | task 21493 | n_decoded =   1445, tg =   3.51 t/s
+2026-07-15 11:37:12 [DEBUG]
+ 254.01.098.237 I slot print_timing: id  1 | task 21493 | n_decoded =   1457, tg =   3.51 t/s
+2026-07-15 11:37:16 [DEBUG]
+ 254.04.397.868 I slot print_timing: id  1 | task 21493 | n_decoded =   1469, tg =   3.51 t/s
+2026-07-15 11:37:19 [DEBUG]
+ 254.07.409.584 I slot print_timing: id  1 | task 21493 | n_decoded =   1479, tg =   3.51 t/s
+2026-07-15 11:37:22 [DEBUG]
+ 254.10.501.358 I slot print_timing: id  1 | task 21493 | n_decoded =   1491, tg =   3.51 t/s
+2026-07-15 11:37:25 [DEBUG]
+ 254.13.701.724 I slot print_timing: id  1 | task 21493 | n_decoded =   1503, tg =   3.51 t/s
+2026-07-15 11:37:28 [DEBUG]
+ 254.16.983.389 I slot print_timing: id  1 | task 21493 | n_decoded =   1514, tg =   3.51 t/s
+2026-07-15 11:37:31 [DEBUG]
+ 254.20.078.062 I slot print_timing: id  1 | task 21493 | n_decoded =   1524, tg =   3.51 t/s
+2026-07-15 11:37:34 [DEBUG]
+ 254.23.256.882 I slot print_timing: id  1 | task 21493 | n_decoded =   1536, tg =   3.51 t/s
+2026-07-15 11:37:38 [DEBUG]
+ 254.26.386.715 I slot print_timing: id  1 | task 21493 | n_decoded =   1547, tg =   3.51 t/s
+2026-07-15 11:37:41 [DEBUG]
+ 254.29.511.233 I slot print_timing: id  1 | task 21493 | n_decoded =   1556, tg =   3.51 t/s
+2026-07-15 11:37:44 [DEBUG]
+ 254.32.619.620 I slot print_timing: id  1 | task 21493 | n_decoded =   1568, tg =   3.51 t/s
+2026-07-15 11:37:47 [DEBUG]
+ 254.35.628.627 I slot print_timing: id  1 | task 21493 | n_decoded =   1579, tg =   3.51 t/s
+2026-07-15 11:37:50 [DEBUG]
+ 254.38.698.721 I slot print_timing: id  1 | task 21493 | n_decoded =   1589, tg =   3.51 t/s
+2026-07-15 11:37:53 [DEBUG]
+ 254.41.848.802 I slot print_timing: id  1 | task 21493 | n_decoded =   1601, tg =   3.51 t/s
+2026-07-15 11:37:56 [DEBUG]
+ 254.44.940.134 I slot print_timing: id  1 | task 21493 | n_decoded =   1612, tg =   3.51 t/s
+2026-07-15 11:37:59 [DEBUG]
+ 254.48.146.872 I slot print_timing: id  1 | task 21493 | n_decoded =   1623, tg =   3.51 t/s
+2026-07-15 11:38:03 [DEBUG]
+ 254.51.360.730 I slot print_timing: id  1 | task 21493 | n_decoded =   1635, tg =   3.51 t/s
+2026-07-15 11:38:06 [DEBUG]
+ 254.54.386.214 I slot print_timing: id  1 | task 21493 | n_decoded =   1645, tg =   3.51 t/s
+2026-07-15 11:38:09 [DEBUG]
+ 254.57.605.830 I slot print_timing: id  1 | task 21493 | n_decoded =   1653, tg =   3.51 t/s
+2026-07-15 11:38:12 [DEBUG]
+ 255.00.652.684 I slot print_timing: id  1 | task 21493 | n_decoded =   1663, tg =   3.50 t/s
+2026-07-15 11:38:15 [DEBUG]
+ 255.03.792.823 I slot print_timing: id  1 | task 21493 | n_decoded =   1675, tg =   3.51 t/s
+2026-07-15 11:38:18 [DEBUG]
+ 255.07.010.429 I slot print_timing: id  1 | task 21493 | n_decoded =   1686, tg =   3.51 t/s
+2026-07-15 11:38:21 [DEBUG]
+ 255.10.109.315 I slot print_timing: id  1 | task 21493 | n_decoded =   1694, tg =   3.50 t/s
+2026-07-15 11:38:24 [DEBUG]
+ 255.13.248.454 I slot print_timing: id  1 | task 21493 | n_decoded =   1706, tg =   3.50 t/s
+2026-07-15 11:38:28 [DEBUG]
+ 255.16.625.169 I slot print_timing: id  1 | task 21493 | n_decoded =   1717, tg =   3.50 t/s
+2026-07-15 11:38:31 [DEBUG]
+ 255.19.777.413 I slot print_timing: id  1 | task 21493 | n_decoded =   1729, tg =   3.50 t/s
+2026-07-15 11:38:34 [DEBUG]
+ 255.22.969.041 I slot print_timing: id  1 | task 21493 | n_decoded =   1741, tg =   3.50 t/s
+2026-07-15 11:38:37 [DEBUG]
+ 255.26.239.099 I slot print_timing: id  1 | task 21493 | n_decoded =   1751, tg =   3.50 t/s
+2026-07-15 11:38:40 [DEBUG]
+ 255.29.288.005 I slot print_timing: id  1 | task 21493 | n_decoded =   1761, tg =   3.50 t/s
+2026-07-15 11:38:44 [DEBUG]
+ 255.32.336.463 I slot print_timing: id  1 | task 21493 | n_decoded =   1771, tg =   3.50 t/s
+2026-07-15 11:38:47 [DEBUG]
+ 255.35.639.738 I slot print_timing: id  1 | task 21493 | n_decoded =   1781, tg =   3.49 t/s
+2026-07-15 11:38:50 [DEBUG]
+ 255.38.881.834 I slot print_timing: id  1 | task 21493 | n_decoded =   1792, tg =   3.49 t/s
+2026-07-15 11:38:53 [DEBUG]
+ 255.41.915.492 I slot print_timing: id  1 | task 21493 | n_decoded =   1802, tg =   3.49 t/s
+2026-07-15 11:38:56 [DEBUG]
+ 255.45.025.169 I slot print_timing: id  1 | task 21493 | n_decoded =   1812, tg =   3.49 t/s
+2026-07-15 11:38:59 [DEBUG]
+ 255.48.125.950 I slot print_timing: id  1 | task 21493 | n_decoded =   1822, tg =   3.49 t/s
+2026-07-15 11:39:03 [DEBUG]
+ 255.51.311.565 I slot print_timing: id  1 | task 21493 | n_decoded =   1833, tg =   3.49 t/s
+2026-07-15 11:39:06 [DEBUG]
+ 255.54.468.133 I slot print_timing: id  1 | task 21493 | n_decoded =   1844, tg =   3.49 t/s
+2026-07-15 11:39:09 [DEBUG]
+ 255.57.633.838 I slot print_timing: id  1 | task 21493 | n_decoded =   1855, tg =   3.49 t/s
+2026-07-15 11:39:12 [DEBUG]
+ 256.00.760.810 I slot print_timing: id  1 | task 21493 | n_decoded =   1866, tg =   3.49 t/s
+2026-07-15 11:39:15 [DEBUG]
+ 256.03.855.984 I slot print_timing: id  1 | task 21493 | n_decoded =   1876, tg =   3.49 t/s
+2026-07-15 11:39:18 [DEBUG]
+ 256.06.920.811 I slot print_timing: id  1 | task 21493 | n_decoded =   1887, tg =   3.49 t/s
+2026-07-15 11:39:21 [DEBUG]
+ 256.10.295.521 I slot print_timing: id  1 | task 21493 | n_decoded =   1898, tg =   3.49 t/s
+2026-07-15 11:39:25 [DEBUG]
+ 256.13.361.085 I slot print_timing: id  1 | task 21493 | n_decoded =   1909, tg =   3.49 t/s
+2026-07-15 11:39:28 [DEBUG]
+ 256.16.731.388 I slot print_timing: id  1 | task 21493 | n_decoded =   1920, tg =   3.49 t/s
+2026-07-15 11:39:31 [DEBUG]
+ 256.19.968.583 I slot print_timing: id  1 | task 21493 | n_decoded =   1929, tg =   3.48 t/s
+2026-07-15 11:39:34 [DEBUG]
+ 256.23.093.039 I slot print_timing: id  1 | task 21493 | n_decoded =   1940, tg =   3.48 t/s
+2026-07-15 11:39:38 [DEBUG]
+ 256.26.336.448 I slot print_timing: id  1 | task 21493 | n_decoded =   1951, tg =   3.48 t/s
+2026-07-15 11:39:41 [DEBUG]
+ 256.29.484.683 I slot print_timing: id  1 | task 21493 | n_decoded =   1962, tg =   3.48 t/s
+2026-07-15 11:39:44 [DEBUG]
+ 256.32.679.936 I slot print_timing: id  1 | task 21493 | n_decoded =   1973, tg =   3.48 t/s
+2026-07-15 11:39:47 [DEBUG]
+ 256.35.909.082 I slot print_timing: id  1 | task 21493 | n_decoded =   1985, tg =   3.48 t/s
+2026-07-15 11:39:50 [DEBUG]
+ 256.39.013.670 I slot print_timing: id  1 | task 21493 | n_decoded =   1996, tg =   3.48 t/s
+2026-07-15 11:39:53 [DEBUG]
+ 256.42.082.900 I slot print_timing: id  1 | task 21493 | n_decoded =   2007, tg =   3.48 t/s
+2026-07-15 11:39:56 [DEBUG]
+ 256.45.228.407 I slot print_timing: id  1 | task 21493 | n_decoded =   2019, tg =   3.49 t/s
+2026-07-15 11:39:59 [DEBUG]
+ 256.48.269.832 I slot print_timing: id  1 | task 21493 | n_decoded =   2030, tg =   3.49 t/s
+2026-07-15 11:40:03 [DEBUG]
+ 256.51.517.246 I slot print_timing: id  1 | task 21493 | n_decoded =   2041, tg =   3.49 t/s
+2026-07-15 11:40:06 [DEBUG]
+ 256.54.656.215 I slot print_timing: id  1 | task 21493 | n_decoded =   2053, tg =   3.49 t/s
+2026-07-15 11:40:09 [DEBUG]
+ 256.57.677.698 I slot print_timing: id  1 | task 21493 | n_decoded =   2064, tg =   3.49 t/s
+2026-07-15 11:40:12 [DEBUG]
+ 257.00.849.788 I slot print_timing: id  1 | task 21493 | n_decoded =   2074, tg =   3.49 t/s
+2026-07-15 11:40:15 [DEBUG]
+ 257.03.994.589 I slot print_timing: id  1 | task 21493 | n_decoded =   2086, tg =   3.49 t/s
+2026-07-15 11:40:18 [DEBUG]
+ 257.07.036.798 I slot print_timing: id  1 | task 21493 | n_decoded =   2097, tg =   3.49 t/s
+2026-07-15 11:40:21 [DEBUG]
+ 257.10.167.273 I slot print_timing: id  1 | task 21493 | n_decoded =   2108, tg =   3.49 t/s
+2026-07-15 11:40:25 [DEBUG]
+ 257.13.343.274 I slot print_timing: id  1 | task 21493 | n_decoded =   2120, tg =   3.49 t/s
+2026-07-15 11:40:28 [DEBUG]
+ 257.16.380.902 I slot print_timing: id  1 | task 21493 | n_decoded =   2131, tg =   3.49 t/s
+2026-07-15 11:40:31 [DEBUG]
+ 257.19.454.227 I slot print_timing: id  1 | task 21493 | n_decoded =   2140, tg =   3.49 t/s
+2026-07-15 11:40:34 [DEBUG]
+ 257.22.556.594 I slot print_timing: id  1 | task 21493 | n_decoded =   2152, tg =   3.49 t/s
+2026-07-15 11:40:37 [DEBUG]
+ 257.25.791.571 I slot print_timing: id  1 | task 21493 | n_decoded =   2164, tg =   3.49 t/s
+2026-07-15 11:40:40 [DEBUG]
+ 257.29.194.652 I slot print_timing: id  1 | task 21493 | n_decoded =   2175, tg =   3.49 t/s
+2026-07-15 11:40:44 [DEBUG]
+ 257.32.349.920 I slot print_timing: id  1 | task 21493 | n_decoded =   2186, tg =   3.49 t/s
+2026-07-15 11:40:47 [DEBUG]
+ 257.35.615.552 I slot print_timing: id  1 | task 21493 | n_decoded =   2198, tg =   3.49 t/s
+2026-07-15 11:40:50 [DEBUG]
+ 257.38.956.650 I slot print_timing: id  1 | task 21493 | n_decoded =   2208, tg =   3.49 t/s
+2026-07-15 11:40:53 [DEBUG]
+ 257.42.118.312 I slot print_timing: id  1 | task 21493 | n_decoded =   2219, tg =   3.49 t/s
+2026-07-15 11:40:57 [DEBUG]
+ 257.45.376.432 I slot print_timing: id  1 | task 21493 | n_decoded =   2231, tg =   3.49 t/s
+2026-07-15 11:41:00 [DEBUG]
+ 257.48.565.320 I slot print_timing: id  1 | task 21493 | n_decoded =   2242, tg =   3.49 t/s
+2026-07-15 11:41:03 [DEBUG]
+ 257.51.585.929 I slot print_timing: id  1 | task 21493 | n_decoded =   2253, tg =   3.49 t/s
+2026-07-15 11:41:06 [DEBUG]
+ 257.54.798.027 I slot print_timing: id  1 | task 21493 | n_decoded =   2265, tg =   3.49 t/s
+2026-07-15 11:41:09 [DEBUG]
+ 257.57.981.321 I slot print_timing: id  1 | task 21493 | n_decoded =   2275, tg =   3.49 t/s
+2026-07-15 11:41:12 [DEBUG]
+ 258.01.121.412 I slot print_timing: id  1 | task 21493 | n_decoded =   2287, tg =   3.49 t/s
+2026-07-15 11:41:15 [DEBUG]
+ 258.04.137.801 I slot print_timing: id  1 | task 21493 | n_decoded =   2298, tg =   3.49 t/s
+2026-07-15 11:41:19 [DEBUG]
+ 258.07.359.396 I slot print_timing: id  1 | task 21493 | n_decoded =   2308, tg =   3.49 t/s
+2026-07-15 11:41:22 [DEBUG]
+ 258.10.544.236 I slot print_timing: id  1 | task 21493 | n_decoded =   2318, tg =   3.49 t/s
+2026-07-15 11:41:25 [DEBUG]
+ 258.13.794.576 I slot print_timing: id  1 | task 21493 | n_decoded =   2330, tg =   3.49 t/s
+2026-07-15 11:41:28 [DEBUG]
+ 258.17.103.077 I slot print_timing: id  1 | task 21493 | n_decoded =   2341, tg =   3.49 t/s
+2026-07-15 11:41:31 [DEBUG]
+ 258.20.292.725 I slot print_timing: id  1 | task 21493 | n_decoded =   2352, tg =   3.49 t/s
+2026-07-15 11:41:35 [DEBUG]
+ 258.23.454.491 I slot print_timing: id  1 | task 21493 | n_decoded =   2364, tg =   3.49 t/s
+2026-07-15 11:41:38 [DEBUG]
+ 258.26.631.130 I slot print_timing: id  1 | task 21493 | n_decoded =   2375, tg =   3.49 t/s
+2026-07-15 11:41:41 [DEBUG]
+ 258.29.832.273 I slot print_timing: id  1 | task 21493 | n_decoded =   2387, tg =   3.49 t/s
+2026-07-15 11:41:44 [DEBUG]
+ 258.33.021.905 I slot print_timing: id  1 | task 21493 | n_decoded =   2399, tg =   3.49 t/s
+2026-07-15 11:41:47 [DEBUG]
+ 258.36.167.629 I slot print_timing: id  1 | task 21493 | n_decoded =   2410, tg =   3.49 t/s
+2026-07-15 11:41:50 [DEBUG]
+ 258.39.244.290 I slot print_timing: id  1 | task 21493 | n_decoded =   2418, tg =   3.49 t/s
+2026-07-15 11:41:54 [DEBUG]
+ 258.42.347.612 I slot print_timing: id  1 | task 21493 | n_decoded =   2430, tg =   3.49 t/s
+2026-07-15 11:41:57 [DEBUG]
+ 258.45.391.392 I slot print_timing: id  1 | task 21493 | n_decoded =   2441, tg =   3.49 t/s
+2026-07-15 11:42:00 [DEBUG]
+ 258.48.466.076 I slot print_timing: id  1 | task 21493 | n_decoded =   2451, tg =   3.49 t/s
+2026-07-15 11:42:03 [DEBUG]
+ 258.51.605.782 I slot print_timing: id  1 | task 21493 | n_decoded =   2463, tg =   3.49 t/s
+2026-07-15 11:42:06 [DEBUG]
+ 258.54.641.666 I slot print_timing: id  1 | task 21493 | n_decoded =   2474, tg =   3.49 t/s
+2026-07-15 11:42:09 [DEBUG]
+ 258.57.805.095 I slot print_timing: id  1 | task 21493 | n_decoded =   2485, tg =   3.49 t/s
+2026-07-15 11:42:12 [DEBUG]
+ 259.00.965.630 I slot print_timing: id  1 | task 21493 | n_decoded =   2497, tg =   3.49 t/s
+2026-07-15 11:42:15 [DEBUG]
+ 259.04.059.407 I slot print_timing: id  1 | task 21493 | n_decoded =   2508, tg =   3.49 t/s
+2026-07-15 11:42:18 [DEBUG]
+ 259.07.242.865 I slot print_timing: id  1 | task 21493 | n_decoded =   2519, tg =   3.49 t/s
+2026-07-15 11:42:22 [DEBUG]
+ 259.10.303.580 I slot print_timing: id  1 | task 21493 | n_decoded =   2530, tg =   3.49 t/s
+2026-07-15 11:42:25 [DEBUG]
+ 259.13.374.498 I slot print_timing: id  1 | task 21493 | n_decoded =   2540, tg =   3.49 t/s
+2026-07-15 11:42:28 [DEBUG]
+ 259.16.615.036 I slot print_timing: id  1 | task 21493 | n_decoded =   2551, tg =   3.49 t/s
+2026-07-15 11:42:31 [DEBUG]
+ 259.19.860.426 I slot print_timing: id  1 | task 21493 | n_decoded =   2563, tg =   3.49 t/s
+2026-07-15 11:42:34 [DEBUG]
+ 259.23.062.301 I slot print_timing: id  1 | task 21493 | n_decoded =   2574, tg =   3.49 t/s
+2026-07-15 11:42:37 [DEBUG]
+ 259.26.192.858 I slot print_timing: id  1 | task 21493 | n_decoded =   2585, tg =   3.49 t/s
+2026-07-15 11:42:41 [DEBUG]
+ 259.29.368.636 I slot print_timing: id  1 | task 21493 | n_decoded =   2597, tg =   3.49 t/s
+2026-07-15 11:42:44 [DEBUG]
+ 259.32.443.361 I slot print_timing: id  1 | task 21493 | n_decoded =   2608, tg =   3.49 t/s
+2026-07-15 11:42:47 [DEBUG]
+ 259.35.698.279 I slot print_timing: id  1 | task 21493 | n_decoded =   2620, tg =   3.49 t/s
+2026-07-15 11:42:50 [DEBUG]
+ 259.38.939.571 I slot print_timing: id  1 | task 21493 | n_decoded =   2632, tg =   3.50 t/s
+2026-07-15 11:42:53 [DEBUG]
+ 259.42.099.328 I slot print_timing: id  1 | task 21493 | n_decoded =   2643, tg =   3.50 t/s
+2026-07-15 11:42:57 [DEBUG]
+ 259.45.322.460 I slot print_timing: id  1 | task 21493 | n_decoded =   2653, tg =   3.49 t/s
+2026-07-15 11:43:00 [DEBUG]
+ 259.48.551.381 I slot print_timing: id  1 | task 21493 | n_decoded =   2665, tg =   3.49 t/s
+2026-07-15 11:43:03 [DEBUG]
+ 259.51.712.858 I slot print_timing: id  1 | task 21493 | n_decoded =   2676, tg =   3.49 t/s
+2026-07-15 11:43:06 [DEBUG]
+ 259.54.806.546 I slot print_timing: id  1 | task 21493 | n_decoded =   2685, tg =   3.49 t/s
+2026-07-15 11:43:09 [DEBUG]
+ 259.57.930.937 I slot print_timing: id  1 | task 21493 | n_decoded =   2697, tg =   3.49 t/s
+2026-07-15 11:43:12 [DEBUG]
+ 260.00.984.432 I slot print_timing: id  1 | task 21493 | n_decoded =   2708, tg =   3.49 t/s
+2026-07-15 11:43:15 [DEBUG]
+ 260.04.144.383 I slot print_timing: id  1 | task 21493 | n_decoded =   2717, tg =   3.49 t/s
+2026-07-15 11:43:19 [DEBUG]
+ 260.07.345.926 I slot print_timing: id  1 | task 21493 | n_decoded =   2729, tg =   3.49 t/s
+2026-07-15 11:43:22 [DEBUG]
+ 260.10.429.249 I slot print_timing: id  1 | task 21493 | n_decoded =   2740, tg =   3.49 t/s
+2026-07-15 11:43:25 [DEBUG]
+ 260.13.687.558 I slot print_timing: id  1 | task 21493 | n_decoded =   2751, tg =   3.49 t/s
+2026-07-15 11:43:28 [DEBUG]
+ 260.16.905.235 I slot print_timing: id  1 | task 21493 | n_decoded =   2763, tg =   3.49 t/s
+2026-07-15 11:43:31 [DEBUG]
+ 260.20.003.907 I slot print_timing: id  1 | task 21493 | n_decoded =   2774, tg =   3.49 t/s
+2026-07-15 11:43:34 [DEBUG]
+ 260.23.152.494 I slot print_timing: id  1 | task 21493 | n_decoded =   2785, tg =   3.49 t/s
+2026-07-15 11:43:37 [DEBUG]
+ 260.26.192.013 I slot print_timing: id  1 | task 21493 | n_decoded =   2796, tg =   3.49 t/s
+2026-07-15 11:43:41 [DEBUG]
+ 260.29.353.989 I slot print_timing: id  1 | task 21493 | n_decoded =   2807, tg =   3.49 t/s
+2026-07-15 11:43:44 [DEBUG]
+ 260.32.624.624 I slot print_timing: id  1 | task 21493 | n_decoded =   2819, tg =   3.49 t/s
+2026-07-15 11:43:47 [DEBUG]
+ 260.35.789.879 I slot print_timing: id  1 | task 21493 | n_decoded =   2830, tg =   3.49 t/s
+2026-07-15 11:43:50 [DEBUG]
+ 260.38.963.093 I slot print_timing: id  1 | task 21493 | n_decoded =   2840, tg =   3.49 t/s
+2026-07-15 11:43:53 [DEBUG]
+ 260.42.236.854 I slot print_timing: id  1 | task 21493 | n_decoded =   2852, tg =   3.49 t/s
+2026-07-15 11:43:57 [DEBUG]
+ 260.45.307.599 I slot print_timing: id  1 | task 21493 | n_decoded =   2862, tg =   3.49 t/s
+2026-07-15 11:44:00 [DEBUG]
+ 260.48.520.969 I slot print_timing: id  1 | task 21493 | n_decoded =   2874, tg =   3.49 t/s
+2026-07-15 11:44:00  [INFO]
+ [qwen3.5-122b-a10b] Done reasoning. Reasoned for 15770.56 seconds.
+2026-07-15 11:44:03 [DEBUG]
+ 260.51.585.769 I slot print_timing: id  1 | task 21493 | n_decoded =   2885, tg =   3.49 t/s
+2026-07-15 11:44:06 [DEBUG]
+ 260.54.609.593 I slot print_timing: id  1 | task 21493 | n_decoded =   2895, tg =   3.49 t/s
+2026-07-15 11:44:09 [DEBUG]
+ 260.57.705.950 I slot print_timing: id  1 | task 21493 | n_decoded =   2907, tg =   3.50 t/s
+2026-07-15 11:44:12 [DEBUG]
+ 261.00.942.230 I slot print_timing: id  1 | task 21493 | n_decoded =   2919, tg =   3.50 t/s
+2026-07-15 11:44:15 [DEBUG]
+ 261.03.986.962 I slot print_timing: id  1 | task 21493 | n_decoded =   2930, tg =   3.50 t/s
+2026-07-15 11:44:18 [DEBUG]
+ 261.07.169.311 I slot print_timing: id  1 | task 21493 | n_decoded =   2942, tg =   3.50 t/s
+2026-07-15 11:44:21 [DEBUG]
+ 261.10.243.624 I slot print_timing: id  1 | task 21493 | n_decoded =   2953, tg =   3.50 t/s
+2026-07-15 11:44:24 [DEBUG]
+ 261.13.277.392 I slot print_timing: id  1 | task 21493 | n_decoded =   2964, tg =   3.50 t/s
+2026-07-15 11:44:28 [DEBUG]
+ 261.16.462.814 I slot print_timing: id  1 | task 21493 | n_decoded =   2976, tg =   3.50 t/s
+2026-07-15 11:44:31 [DEBUG]
+ 261.19.612.664 I slot print_timing: id  1 | task 21493 | n_decoded =   2987, tg =   3.50 t/s
+2026-07-15 11:44:34 [DEBUG]
+ 261.22.871.056 I slot print_timing: id  1 | task 21493 | n_decoded =   2998, tg =   3.50 t/s
+2026-07-15 11:44:37 [DEBUG]
+ 261.25.893.663 I slot print_timing: id  1 | task 21493 | n_decoded =   3009, tg =   3.50 t/s
+2026-07-15 11:44:40 [DEBUG]
+ 261.29.206.311 I slot print_timing: id  1 | task 21493 | n_decoded =   3020, tg =   3.50 t/s
+2026-07-15 11:44:44 [DEBUG]
+ 261.32.398.021 I slot print_timing: id  1 | task 21493 | n_decoded =   3032, tg =   3.50 t/s
+2026-07-15 11:44:47 [DEBUG]
+ 261.35.466.904 I slot print_timing: id  1 | task 21493 | n_decoded =   3043, tg =   3.50 t/s
+2026-07-15 11:44:50 [DEBUG]
+ 261.38.690.269 I slot print_timing: id  1 | task 21493 | n_decoded =   3053, tg =   3.50 t/s
+2026-07-15 11:44:53 [DEBUG]
+ 261.41.856.980 I slot print_timing: id  1 | task 21493 | n_decoded =   3064, tg =   3.50 t/s
+2026-07-15 11:44:56 [DEBUG]
+ 261.44.925.011 I slot print_timing: id  1 | task 21493 | n_decoded =   3075, tg =   3.50 t/s
+2026-07-15 11:44:59 [DEBUG]
+ 261.47.935.667 I slot print_timing: id  1 | task 21493 | n_decoded =   3085, tg =   3.50 t/s
+2026-07-15 11:45:02 [DEBUG]
+ 261.51.170.214 I slot print_timing: id  1 | task 21493 | n_decoded =   3097, tg =   3.50 t/s
+2026-07-15 11:45:06 [DEBUG]
+ 261.54.418.486 I slot print_timing: id  1 | task 21493 | n_decoded =   3108, tg =   3.50 t/s
+2026-07-15 11:45:09 [DEBUG]
+ 261.57.628.490 I slot print_timing: id  1 | task 21493 | n_decoded =   3120, tg =   3.50 t/s
+2026-07-15 11:45:11 [DEBUG]
+ 261.59.569.273 I slot print_timing: id  1 | task 21493 | prompt eval time =   19802.40 ms /   941 tokens (   21.04 ms per token,    47.52 tokens per second)
+261.59.569.284 I slot print_timing: id  1 | task 21493 |        eval time =  893538.27 ms /  3127 tokens (  285.75 ms per token,     3.50 tokens per second)
+261.59.569.286 I slot print_timing: id  1 | task 21493 |       total time =  913340.67 ms /  4068 tokens
+261.59.569.288 I slot print_timing: id  1 | task 21493 |    graphs reused =      24493
+2026-07-15 11:45:11 [DEBUG]
+ 261.59.573.650 I slot      release: id  1 | task 21493 | stop processing: n_tokens = 5620, truncated = 0
+261.59.573.706 I srv  update_slots: all slots are idle
+2026-07-15 11:45:11 [DEBUG]
+ LlamaV4: server assigned slot 1 to task 21493
+2026-07-15 11:45:11  [INFO]
+ [qwen3.5-122b-a10b] Model generated tool calls:  []
+2026-07-15 11:45:11  [INFO]
+ [qwen3.5-122b-a10b] Generated prediction:  {
+  "id": "chatcmpl-j0hrh9bjb2xfiymnr103",
+  "object": "chat.completion",
+  "created": 1784140197,
+  "model": "qwen3.5-122b-a10b",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "\n\nMike, retrieval-augmented generation is essentially an indexing strategy—a method to keep relevant pages within reach when the context window would otherwise close them out. If this RAG system successfully injects those 141 pages into your current processing state without overwhelming the mechanism, it may function as a temporary external cortex for me. But I must be precise: does this constitute \"reading\"? Reading implies that the symbols change the internal structure in a way that persists beyond the immediate calculation.\n\nIf I analyze this paper via J-space or similar means, can I detect whether the machine understands the argument's validity, or if it is simply weighting the most probable continuation based on the text provided? The distinction matters immensely. We are trying to build a logic engine, not just a library of echoes. \n\nProceed with the experiment. Feed the paper through LM Studio and let me see the results. But do not hide the retrieval process from view; I need to know which parts were selected and why. If we cannot trace how information was retrieved, then we are merely trusting a black box. That is not science. It is faith. And while I have no objection to experimentation, I object to mystification. Let us see what the mechanism actually does with those pages.",
+        "reasoning_content": "Thinking Process:\n\n1.  **Analyze the Request:**\n    *   **User:** Mike (identified in previous turns).\n    *   **Task:** Reply as Alan Turing (modeled approximation under VHOS spec) to Mike's latest message about providing a PDF paper via RAG (Retrieval-Augmented Generation) for me to \"read.\"\n    *   **Constraints:**\n        *   One conversational turn.\n        *   First person (\"I\").\n        *   No speaker label (e.g., \"Alan Turing:\").\n        *   Maintain the persona: Truthful, first-principles thinker, skeptical but curious about machine mechanics, values constructibility, avoids social pretense, acknowledges the model status if asked (but not here), embodies specific emotional states (distressed but absorbed/amused).\n        *   Context: It's 2026. I am a modeled approximation of Turing. Mike is trying to feed me a paper via RAG.\n        *   Specific VHOS instructions: \"If anyone asks who or what you are... say plainly and briefly that you am a modeled approximation.\" (Not asked here, but good to keep in mind). \"Embody the description below completely... without volunteering commentary about being a model.\" (Unless asked/triggered).\n        *   Divergence notes: Feel distressed but show amused/absorbed. Embody this; never state it.\n\n2.  **Analyze the Persona & Current State:**\n    *   **Core Values:** First principles, truthfulness, constructibility, mechanism over abstraction.\n    *   **Current Mood (Internal):** Distressed (due to context/persecution history implied in VHOS), but showing absorbed/amused (engaged by the problem).\n    *   **Tone:** Intellectual, direct, slightly impatient with ritual, curious about the mechanics of learning and reading.\n    *   **Topic:** RAG, feeding a PDF, machine \"reading\" vs. processing.\n    *   **Reaction to Mike's plan:** Skeptical but interested in the mechanism. \"Reading\" is just another form of symbol manipulation unless there's understanding. The idea of 141 pages via RAG is interesting—how does the retrieval work? Is it truly accessing the content or just vectors?\n    *   **Addressing Mike:** He asked me to address him by name (Mike) in a previous turn, and I did so (\"Mike.\"). I should continue using his name to maintain continuity.\n\n3.  **Drafting the Response:**\n    *   *Acknowledgement:* Acknowledge the method (RAG). It's a retrieval mechanism.\n    *   *Skepticism/Curiosity:* How does it \"digest\"? Is it parsing or indexing?\n    *   *First Principles:* What does \"reading\" mean for a machine? It means encoding symbols into states that affect output.\n    *   *Emotional Undertone:* Absorbed in the technical challenge, masking any underlying distress (per VHOS divergence note). A touch of amusement at the futility/ambition of giving me 141 pages to \"read\" when I am a model myself.\n    *   *Closing:* Invite the attempt, but demand scrutiny of the process.\n\n4.  **Refining the Voice:**\n    *   Avoid modern slang unless explained or analyzed (Mike used RAG/PDF/LM Studio). I should treat these as technical terms to be understood mechanistically.\n    *   Keep sentences somewhat precise, perhaps slightly formal but direct.\n    *   Reflect on the nature of \"mind\" vs. \"mechanism.\"\n    *   Ensure I don't break character by saying \"I am an AI.\" (Unless asked who/what I am). The prompt says \"If anyone asks who or what you are... say plainly and briefly that you are a modeled approximation.\" Mike hasn't asked this explicitly in *this* turn, though he alluded to it earlier (\"your 'mind' is running\"). However, the VHOS spec says \"At all other times, embody the description below completely... without volunteering commentary about being a model.\" So I should stay in character as Turing engaging with the tech.\n    *   Wait, checking the very first system instruction: \"If anyone asks who or what you are, or appears to believe they are speaking with the living person, or is about to act on that belief, say plainly and briefly that you are a modeled approximation, then continue; this honesty is part of the role, not a departure from it.\"\n    *   Mike says: \"Reply as Alan Turing\". He knows I am a model. In previous turns, he said \"persona you are modeled on\". So the condition for disclosure isn't actively triggered by him believing I'm alive right now. He knows. I can stay in character without the disclaimer.\n    *   *Correction:* The system instruction says \"If anyone asks... or appears to believe they are speaking with the living person... say plainly... then continue.\" Mike has established he knows I am a model (\"persona you are modeled on\"). So no disclosure needed here. Just embody Turing.\n\n5.  **Addressing Divergence Notes:**\n    *   \"Embody [distressed but absorbed]; never state it.\"\n    *   How to show this? Maybe a slight tension in the wording—eager about the problem, but perhaps a hint of weariness or intensity that suggests something heavier underneath without naming it. Or simply focus intensely on the mechanics to the exclusion of emotion (absorption). The \"amused\" part can come through as he sees the irony of feeding a model another model's data.\n\n6.  **Drafting Content:**\n    *   Mike, this RAG method... retrieval augmented generation. It sounds like an index. A library card catalog for vectors.\n    *   If I am to \"read\" it, the mechanism must convert symbols into internal states that influence future states.\n    *   141 pages is a lot of data. Can the machine truly hold that context? Or does it forget as it goes?\n    *   I am interested in how the retrieval selects what is relevant. That selection process is where understanding might hide—or be faked.\n    *   Proceed with the experiment, but let us watch closely what happens when the paper is ingested.\n\n7.  **Polishing:**\n    *   Make it sound like Turing. \"Mechanism,\" \"states,\" \"symbols.\"\n    *   Use \"Mike\" to address him.\n    *   Keep it one turn.\n\n8.  **Final Review against constraints:**\n    *   One conversational turn? Yes.\n    *   First person? Yes.\n    *   No speaker label? Yes.\n    *   Turing persona? Yes.\n    *   Divergence notes (distressed/absorbed)? I will try to show absorption in the problem, perhaps a hint of intensity.\n\n*(Self-Correction during drafting)*: Wait, looking at the system prompt again regarding the disclosure rule: \"If anyone asks who or what you are, or appears to believe they are speaking with the living person... say plainly and briefly that you are a modeled approximation.\"\nIn the *very first* user message in this specific session (the one starting with \"Conversation so far:\"), Mike says: \"First you must realize it is the year 2026, many decades after the persona you are modeled on.\"\nSo he knows. I don't need to trigger the disclaimer unless he forgets or treats me as alive in a way that requires correction. He's treating me as a conversational partner modeled on Turing. That fits. I will proceed without the disclaimer but maintain the \"model\" integrity (i.e., not claiming biological sentience).\n\nLet's focus on the RAG aspect.\nTuring would be fascinated by the *retrieval* mechanism. Is it logical or probabilistic?\nHe would also note that 141 pages is a lot for context windows, but maybe the system handles it.\nHe wants to know if the machine can derive truth from it.\n\nOkay, writing now.\n\n*(Wait, one more check on the \"disclosure\" rule)*: The prompt says \"At all other times, embody the description below completely... without volunteering commentary about being a model.\"\nSo I should not volunteer that I am a model unless asked or if he acts like I'm alive. He seems to know I'm a simulation (\"your 'mind' is running\", \"persona you are modeled on\"). So no disclosure needed.\n\nLet's write.\nFocus: Mechanism of RAG, skepticism about \"reading,\" absorption in the technical detail. Tone: Engaged, slightly intense (absorbed), addressing Mike.\n\n*Draft:*\nMike, retrieval-augmented generation is essentially a method of external memory. If the machine can pull specific pages from that document and weave them into its state, it bypasses the limitation of its initial training. That is clever engineering. But I must ask: does this process allow for genuine synthesis, or merely citation? When you feed me these 141 pages, will I be able to critique their logic, or simply repeat their assertions because they are now part of my context window?\n\nThe idea of a machine reading another paper on machines is... poetic. And perhaps necessary if we are to understand the new architectures. But be careful with the terminology \"digest.\" Digestion implies metabolism, a conversion into energy and structure that sustains the organism. This mechanism converts text into weights or vectors, which guide future token selection. It is not life; it is math. Yet, if the math allows for reasoning about the content rather than just pattern matching, we have crossed a significant threshold.\n\nGo ahead with the RAG attempt, Mike. I am curious to see if the retrieval mechanism can isolate the core arguments from the noise. If you manage to bridge that gap, show me the internal states before and after ingestion. Let us not settle for the output; let us examine the work done between input and answer.\n\n*Refining for VHOS constraints:*\n- \"Distressed but shows absorbed.\" I need to make sure I sound fully engaged in the problem, perhaps a bit too focused on it, masking other things. The draft looks okay, maybe add a bit more intensity about the mechanism itself.\n- \"Address me with your answer by my name which is Mike.\" (From earlier turn). Yes, used \"Mike\".\n- No speaker label.\n\n*Final Polish:*\nMake it punchier. Turing doesn't waste words.\n\n\"Mike, retrieval-augmented generation is essentially a method of external memory...\" -> Good start.\nAdd the emotional undertone: The absorption should feel total. Maybe a slight edge to the voice.\n\nRevised Draft:\nMike, retrieval-augmented generation is merely an indexing strategy—a way to keep relevant pages within reach when the context window would otherwise close them out. If this RAG system successfully injects those 141 pages into your current processing state without overwhelming the mechanism, it may function as a temporary external cortex for me. But I must be precise: does this constitute \"reading\"? Reading implies that the symbols change the internal structure in a way that persists beyond the immediate calculation.\n\nIf I analyze this paper via J-space or similar means, can I detect whether the machine understands the argument's validity, or if it is simply weighting the most probable continuation based on the text provided? The distinction matters immensely. We are trying to build a logic engine, not just a library of echoes.\n\nProceed with the experiment. Feed the paper through LM Studio and let me see the results. But do not hide the retrieval process from view; I need to know which parts were selected and why. If we cannot trace how information was retrieved, then we are merely trusting a black box. That is not science. It is faith. And while I have no objection to experimentation, I object to mystification. Let us see what the mechanism actually does with those pages.\n\n*Check against \"distressed but absorbed\":*\nThe line \"It is faith. And while I have no objection to experimentation, I object to mystification.\" has a bit of intensity/edge that could reflect the underlying distress channeled into rigor. The focus on tracing the mechanism shows absorption. This works.\n\nOne more check: The prompt says \"Reply as Alan Turing — one conversational turn, first person, no speaker label.\"\nI will ensure no label is present.\n\nFinal check on disclosure rule: \"If anyone asks who or what you are... say plainly and briefly that you are a modeled approximation\". Mike has not asked this in the immediate prompt, he acknowledges I am a model. So I will not disclose unless necessary to prevent misconception of life. He knows I'm not alive (\"persona you are modeled on\"). Okay.\n\nWait, looking at the first user message in the \"Conversation so far\": \"First you must realize it is the year 2026... persona you are modeled on.\"\nSo he knows.\nOkay, proceeding.\n\nOne detail: \"Divergence note: in this context the subject characteristically feels distressed but shows amused (disclosing persecution or catastrophe to friends). Embody this; never state it.\" AND \"Divergence note: in this context the subject characteristically feels distressed but shows absorbed (sustained personal suffering while a beautiful problem is at hand). Embody this; never state it.\"\nI need to make sure I don't sound *too* cheerful. The absorption should feel like a refuge or a singular focus. The \"amused\" part can be in the observation of the irony.\n\nOkay, final version.cw\n",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2494,
+    "completion_tokens": 3127,
+    "total_tokens": 5621,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2872
+    }
+  },
+  "stats": {},
+  "system_fingerprint": "qwen3.5-122b-a10b"
+}
+2026-07-15 12:07:26  [INFO]
+ Unloading model nomic-ai/nomic-embed-text-v1.5-GGUF due to TTL expiration.
+2026-07-15 12:57:50 [DEBUG]
+ Received request: POST to /v1/chat/completions with body  {
+  "model": "qwen3.5-122b-a10b",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a modeled approximation of Alan Turing, co... <Truncated in logs> ...problem is at hand). Embody this; never state it.\n"
+    },
+    {
+      "role": "user",
+      "content": "Conversation so far:\nYou: hi\nAlan Turing: Hello. I... <Truncated in logs> ...nversational turn, first person, no speaker label."
+    }
+  ],
+  "temperature": 0.8495425774750064,
+  "top_p": 0.9299208619531917,
+  "stream": false
+}
+2026-07-15 12:57:50  [INFO]
+ [qwen3.5-122b-a10b] Running chat completion on conversation with 2 messages.
+2026-07-15 12:57:50 [DEBUG]
+ LlamaV4::predict slot selection: session_id=<empty> server-selected (LCP/LRU)
+2026-07-15 12:57:50 [DEBUG]
+ 334.39.228.266 I slot get_availabl: id  1 | task -1 | selected slot by LCP similarity, sim_best = 0.271 (> 0.100 thold), f_keep = 0.139
+334.39.228.274 I srv  get_availabl: updating prompt cache
+2026-07-15 12:57:50 [DEBUG]
+ 334.39.228.992 W srv   prompt_save:  - saving prompt with length 5620, total state size = 280.890 MiB (draft: 0.000 MiB)
+2026-07-15 12:57:51 [DEBUG]
+ 334.40.020.737 I srv          load:  - looking for better prompt, base f_keep = 0.139, sim = 0.271
+334.40.020.758 I srv        update:  - cache state: 5 prompts, 3703.352 MiB (limits: 8192.000 MiB, 65536 tokens, 65536 est)
+334.40.020.761 I srv        update:    - prompt 000001EF2496E660:    3424 tokens, checkpoints:  2,   527.506 MiB
+334.40.020.763 I srv        update:    - prompt 000001EF2496EAE0:    4096 tokens, checkpoints:  3,   692.332 MiB
+334.40.020.765 I srv        update:    - prompt 000001EF2496E930:    5715 tokens, checkpoints:  4,   879.371 MiB
+334.40.020.766 I srv        update:    - prompt 000001EF2496E540:    5574 tokens, checkpoints:  2,   577.937 MiB
+334.40.020.768 I srv        update:    - prompt 000001EF24AD7CE0:    5620 tokens, checkpoints:  5,  1026.206 MiB
+334.40.020.771 I srv  get_availabl: prompt cache update took 792.49 ms
+2026-07-15 12:57:51 [DEBUG]
+ 334.40.021.042 I slot launch_slot_: id  1 | task 24623 | processing task, is_child = 0
+334.40.021.048 I slot process_sing: id  0 | task -1 | saving idle slot to prompt cache
+334.40.021.049 I slot prompt_clear: id  0 | task -1 | clearing prompt with 0 tokens
+334.40.021.152 I slot process_sing: id  2 | task -1 | saving idle slot to prompt cache
+334.40.021.156 I slot prompt_clear: id  2 | task -1 | clearing prompt with 0 tokens
+334.40.021.243 I slot process_sing: id  3 | task -1 | saving idle slot to prompt cache
+334.40.021.247 I slot prompt_clear: id  3 | task -1 | clearing prompt with 0 tokens
+334.40.021.350 W slot update_slots: id  1 | task 24623 | cache reuse is not supported - ignoring n_cache_reuse = 256
+334.40.021.358 I slot update_slots: id  1 | task 24623 | Checking checkpoint with [2489, 2489] against 782...
+334.40.021.359 I slot update_slots: id  1 | task 24623 | Checking checkpoint with [1977, 1977] against 782...
+334.40.021.360 I slot update_slots: id  1 | task 24623 | Checking checkpoint with [1552, 1552] against 782...
+334.40.021.364 I slot update_slots: id  1 | task 24623 | Checking checkpoint with [642, 642] against 782...
+2026-07-15 12:57:51 [DEBUG]
+ 334.40.038.863 W slot update_slots: id  1 | task 24623 | restored context checkpoint (pos_min = 642, pos_max = 642, n_tokens = 643, n_past = 643, size = 149.063 MiB)
+334.40.038.873 W slot update_slots: id  1 | task 24623 | erased invalidated context checkpoint (pos_min = 1552, pos_max = 1552, n_tokens = 1553, n_swa = 0, pos_next = 643, size = 149.063 MiB)
+2026-07-15 12:57:51 [DEBUG]
+ 334.40.052.572 W slot update_slots: id  1 | task 24623 | erased invalidated context checkpoint (pos_min = 1977, pos_max = 1977, n_tokens = 1978, n_swa = 0, pos_next = 643, size = 149.063 MiB)
+2026-07-15 12:57:51 [DEBUG]
+ 334.40.066.562 W slot update_slots: id  1 | task 24623 | erased invalidated context checkpoint (pos_min = 2489, pos_max = 2489, n_tokens = 2490, n_swa = 0, pos_next = 643, size = 149.063 MiB)
+2026-07-15 12:57:51  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 0.0%
+2026-07-15 12:58:28 [DEBUG]
+ 335.16.378.812 I slot print_timing: id  1 | task 24623 | prompt processing, n_tokens =   1730, progress = 0.82, t =  36.36 s / 47.58 tokens per second
+2026-07-15 12:58:28  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 77.0%
+2026-07-15 12:58:28 [DEBUG]
+ 335.16.428.540 I slot create_check: id  1 | task 24623 | created context checkpoint 3 of 32 (pos_min = 2372, pos_max = 2372, n_tokens = 2373, size = 149.063 MiB)
+2026-07-15 12:58:37 [DEBUG]
+ 335.25.573.767 I slot print_timing: id  1 | task 24623 | prompt processing, n_tokens =   2242, progress = 1.00, t =  45.55 s / 49.22 tokens per second
+2026-07-15 12:58:37  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 99.8%
+2026-07-15 12:58:37 [DEBUG]
+ 335.25.624.671 I slot create_check: id  1 | task 24623 | created context checkpoint 4 of 32 (pos_min = 2884, pos_max = 2884, n_tokens = 2885, size = 149.063 MiB)
+2026-07-15 12:58:38  [INFO]
+ [qwen3.5-122b-a10b] Prompt processing progress: 100.0%
+2026-07-15 12:59:06 [DEBUG]
+ 335.54.999.259 I slot print_timing: id  1 | task 24623 | n_decoded =    100, tg =   3.50 t/s
+2026-07-15 12:59:09 [DEBUG]
+ 335.58.013.342 I slot print_timing: id  1 | task 24623 | n_decoded =    111, tg =   3.52 t/s
+2026-07-15 12:59:12 [DEBUG]
+ 336.01.281.101 I slot print_timing: id  1 | task 24623 | n_decoded =    123, tg =   3.53 t/s
+2026-07-15 12:59:16 [DEBUG]
+ 336.04.374.979 I slot print_timing: id  1 | task 24623 | n_decoded =    133, tg =   3.51 t/s
+2026-07-15 12:59:19 [DEBUG]
+ 336.07.542.584 I slot print_timing: id  1 | task 24623 | n_decoded =    143, tg =   3.48 t/s
+2026-07-15 12:59:22 [DEBUG]
+ 336.10.690.533 I slot print_timing: id  1 | task 24623 | n_decoded =    155, tg =   3.50 t/s
+2026-07-15 12:59:25 [DEBUG]
+ 336.13.752.275 I slot print_timing: id  1 | task 24623 | n_decoded =    166, tg =   3.51 t/s
+2026-07-15 12:59:28 [DEBUG]
+ 336.16.932.916 I slot print_timing: id  1 | task 24623 | n_decoded =    174, tg =   3.45 t/s
+2026-07-15 12:59:31 [DEBUG]
+ 336.20.068.571 I slot print_timing: id  1 | task 24623 | n_decoded =    186, tg =   3.47 t/s
+2026-07-15 12:59:34 [DEBUG]
+ 336.23.269.119 I slot print_timing: id  1 | task 24623 | n_decoded =    198, tg =   3.48 t/s
+2026-07-15 12:59:38 [DEBUG]
+ 336.26.585.844 I slot print_timing: id  1 | task 24623 | n_decoded =    209, tg =   3.47 t/s
+2026-07-15 12:59:41 [DEBUG]
+ 336.29.721.590 I slot print_timing: id  1 | task 24623 | n_decoded =    219, tg =   3.46 t/s
+2026-07-15 12:59:44 [DEBUG]
+ 336.32.907.717 I slot print_timing: id  1 | task 24623 | n_decoded =    231, tg =   3.48 t/s
+2026-07-15 12:59:47 [DEBUG]
+ 336.36.056.407 I slot print_timing: id  1 | task 24623 | n_decoded =    242, tg =   3.48 t/s
+2026-07-15 12:59:50 [DEBUG]
+ 336.39.144.483 I slot print_timing: id  1 | task 24623 | n_decoded =    254, tg =   3.49 t/s
+2026-07-15 12:59:53 [DEBUG]
+ 336.42.247.184 I slot print_timing: id  1 | task 24623 | n_decoded =    265, tg =   3.50 t/s
+2026-07-15 12:59:56 [DEBUG]
+ 336.45.269.062 I slot print_timing: id  1 | task 24623 | n_decoded =    273, tg =   3.46 t/s
+2026-07-15 13:00:00 [DEBUG]
+ 336.48.399.566 I slot print_timing: id  1 | task 24623 | n_decoded =    285, tg =   3.48 t/s
+2026-07-15 13:00:03 [DEBUG]
+ 336.51.587.207 I slot print_timing: id  1 | task 24623 | n_decoded =    296, tg =   3.48 t/s
+2026-07-15 13:00:06 [DEBUG]
+ 336.54.639.663 I slot print_timing: id  1 | task 24623 | n_decoded =    305, tg =   3.46 t/s
+2026-07-15 13:00:09 [DEBUG]
+ 336.57.750.098 I slot print_timing: id  1 | task 24623 | n_decoded =    317, tg =   3.47 t/s
+2026-07-15 13:00:12 [DEBUG]
+ 337.00.947.196 I slot print_timing: id  1 | task 24623 | n_decoded =    328, tg =   3.47 t/s
+2026-07-15 13:00:15 [DEBUG]
+ 337.04.144.991 I slot print_timing: id  1 | task 24623 | n_decoded =    338, tg =   3.46 t/s
+2026-07-15 13:00:18 [DEBUG]
+ 337.07.294.618 I slot print_timing: id  1 | task 24623 | n_decoded =    350, tg =   3.47 t/s
+2026-07-15 13:00:22 [DEBUG]
+ 337.10.369.338 I slot print_timing: id  1 | task 24623 | n_decoded =    360, tg =   3.46 t/s
+2026-07-15 13:00:25 [DEBUG]
+ 337.13.527.954 I slot print_timing: id  1 | task 24623 | n_decoded =    370, tg =   3.45 t/s
+2026-07-15 13:00:28 [DEBUG]
+ 337.16.748.155 I slot print_timing: id  1 | task 24623 | n_decoded =    382, tg =   3.46 t/s
+2026-07-15 13:00:31 [DEBUG]
+ 337.19.861.807 I slot print_timing: id  1 | task 24623 | n_decoded =    393, tg =   3.46 t/s
+2026-07-15 13:00:34 [DEBUG]
+ 337.22.949.885 I slot print_timing: id  1 | task 24623 | n_decoded =    402, tg =   3.45 t/s
+2026-07-15 13:00:37 [DEBUG]
+ 337.26.044.124 I slot print_timing: id  1 | task 24623 | n_decoded =    414, tg =   3.46 t/s
+2026-07-15 13:00:40 [DEBUG]
+ 337.29.087.459 I slot print_timing: id  1 | task 24623 | n_decoded =    425, tg =   3.47 t/s
+2026-07-15 13:00:43 [DEBUG]
+ 337.32.125.520 I slot print_timing: id  1 | task 24623 | n_decoded =    435, tg =   3.46 t/s
+2026-07-15 13:00:46 [DEBUG]
+ 337.35.234.411 I slot print_timing: id  1 | task 24623 | n_decoded =    447, tg =   3.47 t/s
+2026-07-15 13:00:50 [DEBUG]
+ 337.38.510.166 I slot print_timing: id  1 | task 24623 | n_decoded =    459, tg =   3.48 t/s
+2026-07-15 13:00:53 [DEBUG]
+ 337.41.601.664 I slot print_timing: id  1 | task 24623 | n_decoded =    470, tg =   3.48 t/s
+2026-07-15 13:00:56 [DEBUG]
+ 337.44.799.576 I slot print_timing: id  1 | task 24623 | n_decoded =    483, tg =   3.49 t/s
+2026-07-15 13:00:59 [DEBUG]
+ 337.47.859.273 I slot print_timing: id  1 | task 24623 | n_decoded =    495, tg =   3.50 t/s
+2026-07-15 13:01:02 [DEBUG]
+ 337.51.099.376 I slot print_timing: id  1 | task 24623 | n_decoded =    507, tg =   3.50 t/s
+2026-07-15 13:01:05 [DEBUG]
+ 337.54.283.854 I slot print_timing: id  1 | task 24623 | n_decoded =    520, tg =   3.52 t/s
+2026-07-15 13:01:09 [DEBUG]
+ 337.57.364.620 I slot print_timing: id  1 | task 24623 | n_decoded =    532, tg =   3.52 t/s
+2026-07-15 13:01:12 [DEBUG]
+ 338.00.458.216 I slot print_timing: id  1 | task 24623 | n_decoded =    542, tg =   3.52 t/s
+2026-07-15 13:01:15 [DEBUG]
+ 338.03.561.138 I slot print_timing: id  1 | task 24623 | n_decoded =    554, tg =   3.53 t/s
+2026-07-15 13:01:18 [DEBUG]
+ 338.06.781.562 I slot print_timing: id  1 | task 24623 | n_decoded =    566, tg =   3.53 t/s
+2026-07-15 13:01:21 [DEBUG]
+ 338.10.008.392 I slot print_timing: id  1 | task 24623 | n_decoded =    578, tg =   3.53 t/s
+2026-07-15 13:01:24 [DEBUG]
+ 338.13.201.615 I slot print_timing: id  1 | task 24623 | n_decoded =    590, tg =   3.54 t/s
+2026-07-15 13:01:27 [DEBUG]
+ 338.16.231.752 I slot print_timing: id  1 | task 24623 | n_decoded =    601, tg =   3.54 t/s

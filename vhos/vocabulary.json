@@ -1,0 +1,1622 @@
+{
+ "name": "vhos-core",
+ "version": "0.2",
+ "entry_count": 220,
+ "generated_from": "VHOS Unified Specification v3.0, Appendix A (canonical). This file is a derived projection; the appendix is authoritative.",
+ "generated_on": "2026-07-14",
+ "sides": {
+  "internal_feelings": [
+   "high-energy uplifting",
+   "high-energy distressing",
+   "low-energy uplifting",
+   "low-energy distressing"
+  ],
+  "body_states": [
+   "activated",
+   "drained"
+  ],
+  "thinking_states": [
+   "disrupted",
+   "engaged",
+   "overloaded",
+   "self-focused"
+  ],
+  "external_behavior": [
+   "withdrawing",
+   "asserting",
+   "welcoming",
+   "yielding"
+  ]
+ },
+ "intensity_split_note": "Entries carrying a condition field resolve per Contract 2: the low-intensity mapping applies only when the statement has a weakening modifier (weakly, rarely); otherwise the high-intensity mapping applies.",
+ "entries": {
+  "ABSORBED": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "ADMIRING": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "AFRAID": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "ALARMED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "ALERT": [
+   {
+    "side": "body_states",
+    "category": "activated"
+   },
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "ALIENATED": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   },
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "AMAZED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "AMUSED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "ANGRY": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "ANNOYED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "ANXIOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "AROUSED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "ARROGANT": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "ASHAMED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing",
+    "condition": "high_intensity"
+   },
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing",
+    "condition": "low_intensity"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "ASTONISHED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "AT EASE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "AWESTRUCK": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "BETRAYED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "BEWILDERED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "BITTER": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "BLISSFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "BOLD": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "BORED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "BROODING": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "BURNED OUT": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "CALM": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "CHEERFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "COMPASSIONATE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "CONDESCENDING": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "CONFLICTED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "CONFUSED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "CONTEMPTUOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "CONTENT": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "COOPERATIVE": [
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "CURIOUS": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "DAYDREAMING": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "DECISIVE": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "DEFIANT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "DELIGHTED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "DEPENDENT": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "DEPRESSED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "DESPERATE": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "DETACHED": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "DETERMINED": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "DEVASTATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "DISAPPOINTED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "DISDAINFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "DISGUSTED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "DISORIENTED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "DISPIRITED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "DISTRACTED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "DISTRESSED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "DISTURBED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "DOCILE": [
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "DROOPY": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "DUMBSTRUCK": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "EAGER": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "ECSTATIC": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "ELATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "EMBARRASSED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "EMPATHETIC": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "EMPTY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "ENERGIZED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "ENRAGED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "ENTHUSIASTIC": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "ENVIOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "EUPHORIC": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "EXASPERATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "EXCITED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "EXHAUSTED": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "EXUBERANT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "FASCINATED": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   },
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "FOCUSED": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "FORGIVING": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "FRIGHTENED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "FRUSTRATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "FULFILLED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "FURIOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "GLOOMY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "GRATEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "GREEDY": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "GRIEF-STRICKEN": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "GRUMPY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "GUILTY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "HAPPY": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "HATEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "HEARTBROKEN": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "HELPLESS": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "HOPE": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "HOPEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "HOPELESS": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "HORRIFIED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "HOSTILE": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "HUMBLE": [
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "HUMILIATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "HURT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "HYSTERICAL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "IMPATIENT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "INDIFFERENT": [
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "INDIGNANT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "INFATUATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "INSECURE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "INSPIRED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "INSULTED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "INTERESTED": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "INVIGORATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "IRATE": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "IRRITATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "ISOLATED": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   },
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "JEALOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "JITTERY": [
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "JOYFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "JUBILANT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "JUDGMENTAL": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "KIND": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "LAZY": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "LISTLESS": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "LONELY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "LONGING": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "LOVED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "LOVING": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "MAD": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "MELANCHOLY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "MISERABLE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "MORTIFIED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "MOVED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "MYSTIFIED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "NAIVE": [
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "NAUSEOUS": [
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "NERVOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "NOSTALGIC": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "NUMB": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "OBSTINATE": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "OFFENDED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "ON EDGE": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "OPTIMISTIC": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "OUTRAGED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "OVERWHELMED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "PANICKED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "PARANOID": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "PATIENT": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   },
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "PEACEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "PERPLEXED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "PESSIMISTIC": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "PLAYFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "PLEASED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "PROTECTIVE": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   },
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "PROUD": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "PUZZLED": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "RATTLED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "REFLECTIVE": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "REFRESHED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "REGRETFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "REJUVENATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "RELAXED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "RELIEVED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "REMORSEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "RESENTFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "RESERVED": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "RESIGNED": [
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "RESTLESS": [
+   {
+    "side": "body_states",
+    "category": "activated"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "SAD": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "SAFE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "SATISFIED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "SCARED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "SCORNFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "SECLUDED": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "SELF-CONFIDENT": [
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "SELF-CONSCIOUS": [
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   },
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "SELF-CRITICAL": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "SENSITIVE": [
+   {
+    "side": "thinking_states",
+    "category": "self-focused"
+   }
+  ],
+  "SENTIMENTAL": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "SERENE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   }
+  ],
+  "SHAKEN": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "SHOCKED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "SHUNNED": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "SHY": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "SKEPTICAL": [
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "SLEEPY": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "SLUGGISH": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "SMUG": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "SORRY": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "SPITEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "STIMULATED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "STRESSED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "STUBBORN": [
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "STUCK": [
+   {
+    "side": "thinking_states",
+    "category": "disrupted"
+   }
+  ],
+  "SUBMISSIVE": [
+   {
+    "side": "external_behavior",
+    "category": "yielding"
+   }
+  ],
+  "SULLEN": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "SURPRISED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "SUSPICIOUS": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "SYMPATHETIC": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "TENDER": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "TENSE": [
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "TERRIFIED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "THANKFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "THRILLED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "TIMID": [
+   {
+    "side": "external_behavior",
+    "category": "withdrawing"
+   }
+  ],
+  "TIRED": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "TORMENTED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "TRAPPED": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "TRIUMPHANT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   }
+  ],
+  "TROUBLED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "TRUSTING": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy uplifting"
+   },
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "UNEASY": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "thinking_states",
+    "category": "overloaded"
+   }
+  ],
+  "UNHAPPY": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing",
+    "condition": "high_intensity"
+   },
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing",
+    "condition": "low_intensity"
+   }
+  ],
+  "UNNERVED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "UNSETTLED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "UPSET": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "VALIANT": [
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "VENGEFUL": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "VIBRANT": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy uplifting"
+   },
+   {
+    "side": "body_states",
+    "category": "activated"
+   }
+  ],
+  "VIGILANT": [
+   {
+    "side": "body_states",
+    "category": "activated"
+   },
+   {
+    "side": "thinking_states",
+    "category": "engaged"
+   }
+  ],
+  "VINDICTIVE": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   },
+   {
+    "side": "external_behavior",
+    "category": "asserting"
+   }
+  ],
+  "VULNERABLE": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ],
+  "WEARY": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "WELCOMING": [
+   {
+    "side": "external_behavior",
+    "category": "welcoming"
+   }
+  ],
+  "WORN OUT": [
+   {
+    "side": "body_states",
+    "category": "drained"
+   }
+  ],
+  "WORRIED": [
+   {
+    "side": "internal_feelings",
+    "category": "high-energy distressing"
+   }
+  ],
+  "WORTHLESS": [
+   {
+    "side": "internal_feelings",
+    "category": "low-energy distressing"
+   }
+  ]
+ }
+}

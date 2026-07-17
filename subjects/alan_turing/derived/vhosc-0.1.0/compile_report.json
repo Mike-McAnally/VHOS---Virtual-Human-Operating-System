@@ -1,0 +1,18 @@
+{
+ "$schema": "vhos/3.0/compile-report",
+ "subject_id": "alan_turing",
+ "compiler": "vhosc-0.1.0",
+ "spec": "4.0",
+ "vocabulary": "vhos-core v0.2 (220 words)",
+ "compiled_at": "2026-07-17T14:26:03+00:00",
+ "status": "ok",
+ "statement_count": 31,
+ "immutable_count": 0,
+ "issues": [],
+ "sync_report": [
+  "decision_style.consensus_orientation: authored 0.08 vs derived 0.34 (gap > 0.20) — review the prose or the block",
+  "decision_style.intuition_vs_analysis: authored 0.68 vs derived 0.95 (gap > 0.20) — review the prose or the block",
+  "decision_style.novelty_appetite: authored 0.90 vs derived 0.54 (gap > 0.20) — review the prose or the block",
+  "influence_susceptibility.social_proof: authored 0.10 vs derived 0.37 (gap > 0.20) — review the prose or the block"
+ ]
+}

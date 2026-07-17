@@ -1,0 +1,117 @@
+{
+ "$schema": "vhos/3.0/heuristics-projection",
+ "subject_id": "alan_turing",
+ "compiler": "vhosc-0.1.0",
+ "compiled_at": "2026-07-17T14:26:03+00:00",
+ "projection": {
+  "biases": {
+   "authority": {
+    "value": 0.1,
+    "confidence": 0.85,
+    "provenance": "authored",
+    "derived_value": 0.181
+   },
+   "confirmation": {
+    "value": 0.43,
+    "confidence": 0.63,
+    "contributing_lines": [
+     87
+    ],
+    "provenance": "derived"
+   },
+   "narrative": {
+    "value": 0.3,
+    "confidence": 0.4,
+    "provenance": "authored"
+   },
+   "sunk_cost": {
+    "value": 0.25,
+    "confidence": 0.35,
+    "provenance": "authored"
+   }
+  },
+  "decision_style": {
+   "consensus_orientation": {
+    "value": 0.08,
+    "confidence": 0.9,
+    "provenance": "authored",
+    "derived_value": 0.335
+   },
+   "deliberation": {
+    "value": 0.7,
+    "confidence": 0.6,
+    "provenance": "authored",
+    "derived_value": 0.703
+   },
+   "granularity": {
+    "value": 0.45,
+    "confidence": 0.4,
+    "provenance": "authored",
+    "derived_value": 0.295
+   },
+   "horizon": {
+    "value": "long",
+    "confidence": 0.7,
+    "provenance": "authored"
+   },
+   "intuition_vs_analysis": {
+    "value": 0.68,
+    "confidence": 0.65,
+    "provenance": "authored",
+    "derived_value": 0.95
+   },
+   "novelty_appetite": {
+    "value": 0.9,
+    "confidence": 0.85,
+    "provenance": "authored",
+    "derived_value": 0.535
+   },
+   "risk_tolerance": {
+    "value": 0.75,
+    "confidence": 0.7,
+    "provenance": "authored"
+   }
+  },
+  "influence_susceptibility": {
+   "authority_signaling": {
+    "value": 0.1,
+    "confidence": 0.85,
+    "provenance": "authored",
+    "derived_value": 0.245
+   },
+   "emotional_appeal": {
+    "value": 0.35,
+    "confidence": 0.5,
+    "provenance": "authored"
+   },
+   "repetition": {
+    "value": 0.15,
+    "confidence": 0.5,
+    "provenance": "authored"
+   },
+   "scarcity_urgency": {
+    "value": 0.2,
+    "confidence": 0.4,
+    "provenance": "authored"
+   },
+   "social_proof": {
+    "value": 0.1,
+    "confidence": 0.8,
+    "provenance": "authored",
+    "derived_value": 0.372
+   },
+   "visual_vs_textual": {
+    "value": 0.55,
+    "confidence": 0.3,
+    "provenance": "authored"
+   }
+  }
+ },
+ "sync_report": [
+  "decision_style.consensus_orientation: authored 0.08 vs derived 0.34 (gap > 0.20) — review the prose or the block",
+  "decision_style.intuition_vs_analysis: authored 0.68 vs derived 0.95 (gap > 0.20) — review the prose or the block",
+  "decision_style.novelty_appetite: authored 0.90 vs derived 0.54 (gap > 0.20) — review the prose or the block",
+  "influence_susceptibility.social_proof: authored 0.10 vs derived 0.37 (gap > 0.20) — review the prose or the block"
+ ],
+ "mapping_table": "vhos.hdl.projection RULES (vhosc-0.1.0)"
+}

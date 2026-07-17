@@ -1,0 +1,24 @@
+{
+  "$schema": "vhos/4.0/run-manifest",
+  "reconstructed": true,
+  "reconstruction_note": "Rebuilt 2026-07-17 from the operator's console capture (chat_with_Turing_test3_combined.txt) and the LM Studio debug log (LMStudio_Runtime_DebugLog_Alan_Turing.txt); the runtime-written archive was lost to a closed console window. Timestamps approximate; persona hashes not captured. See PROVENANCE.md.",
+  "engine_id": "qwen3.5-122b-a10b",
+  "adapter": "lmstudio",
+  "params": {
+    "temperature_base": 0.8,
+    "top_p_base": 0.95,
+    "max_tokens_base": null
+  },
+  "seed": null,
+  "persona_sha256_12_last": null,
+  "persona_sha256_12_per_turn": [],
+  "soma_state_final": {
+    "arousal": 0.52,
+    "tension": 0.53,
+    "fatigue": 0.05,
+    "warmth": 0.5
+  },
+  "started": "2026-07-15T15:57:00+00:00",
+  "ended": "2026-07-15T20:15:00+00:00",
+  "turns": 14
+}

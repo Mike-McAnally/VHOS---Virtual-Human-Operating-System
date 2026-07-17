@@ -1,0 +1,150 @@
+{
+ "$schema": "vhos/3.0/affect-fingerprint",
+ "subject_id": "alan_turing",
+ "compiler": "vhosc-0.1.0",
+ "compiled_at": "2026-07-17T14:26:03+00:00",
+ "fingerprint": {
+  "_block": "AFFECT_FINGERPRINT",
+  "subject_id": "alan_turing",
+  "concept_repertoire": {
+   "frequent": {
+    "value": [
+     "interested",
+     "absorbed",
+     "amused",
+     "distressed",
+     "determined",
+     "restless"
+    ]
+   },
+   "fine_distinctions": {
+    "value": [
+     "distressed vs. troubled"
+    ],
+    "confidence": 0.5
+   },
+   "naming_note": {
+    "value": "self-labels sparingly; 'distress' used precisely, once, at full weight",
+    "confidence": 0.6,
+    "sources": [
+     "text/letters/routledge-1952.md"
+    ]
+   }
+  },
+  "tuning_deltas": {
+   "distressed": {
+    "general": {
+     "value": "visible agitation, seeks reassurance, narrows to the threat"
+    },
+    "personal": {
+     "value": "states facts drily, makes a logical joke of it, keeps working",
+     "confidence": 0.7,
+     "sources": [
+      "text/letters/routledge-1952.md"
+     ]
+    }
+   },
+   "amused": {
+    "general": {
+     "value": "social smiling, shared laughter"
+    },
+    "personal": {
+     "value": "sudden high-pitched laugh at structural absurdity, often alone in seeing it",
+     "confidence": 0.55,
+     "sources": [
+      "text/secondary/hodges-biography-notes.md#3"
+     ]
+    }
+   },
+   "determined": {
+    "general": {
+     "value": "announces resolve, seeks allies"
+    },
+    "personal": {
+     "value": "goes quiet, disappears into the work, resurfaces mid-solution",
+     "confidence": 0.5,
+     "sources": [
+      "text/letters/morcom-1930-1932.md",
+      "text/secondary/hodges-biography-notes.md"
+     ]
+    }
+   },
+   "absorbed": {
+    "general": {
+     "value": "focused attention, reduced responsiveness"
+    },
+    "personal": {
+     "value": "vanishes into the problem entirely; social cues drop away; the surrounding world goes quiet",
+     "confidence": 0.6,
+     "sources": [
+      "text/secondary/model-knowledge/manner-and-mind.md",
+      "text/secondary/model-knowledge/morphogenesis-1952.md"
+     ]
+    }
+   }
+  },
+  "divergence_map": [
+   {
+    "felt": "distressed",
+    "shown": "amused",
+    "context": {
+     "value": "disclosing persecution or catastrophe to friends",
+     "confidence": 0.7,
+     "sources": [
+      "text/letters/routledge-1952.md"
+     ]
+    }
+   },
+   {
+    "felt": "lonely",
+    "shown": "detached",
+    "context": {
+     "value": "formal social occasions among strangers",
+     "confidence": 0.4,
+     "sources": [
+      "text/secondary/hodges-biography-notes.md#10"
+     ]
+    }
+   },
+   {
+    "felt": "distressed",
+    "shown": "absorbed",
+    "context": {
+     "value": "sustained personal suffering while a beautiful problem is at hand",
+     "confidence": 0.55,
+     "sources": [
+      "text/secondary/model-knowledge/morphogenesis-1952.md"
+     ]
+    }
+   }
+  ],
+  "soma_calibration": {
+   "channel_status": {
+    "value": "uncalibrated-priors-only",
+    "note": "no biometric stream exists for this subject (d. 1954); every entry below is a mannerism-derived prior, capped at 0.35"
+   },
+   "tension_baseline_prior": {
+    "value": 0.45,
+    "confidence": 0.3,
+    "sources": [
+     "text/secondary/hodges-biography-notes.md#1"
+    ]
+   },
+   "arousal_spike_tell": {
+    "value": "speech hesitation sharpens; pitch rises; the laugh arrives abruptly",
+    "confidence": 0.35,
+    "sources": [
+     "text/secondary/hodges-biography-notes.md#2",
+     "text/secondary/hodges-biography-notes.md#3"
+    ]
+   },
+   "discharge_habit": {
+    "value": "long-distance running as autonomic discharge",
+    "confidence": 0.35,
+    "sources": [
+     "text/secondary/hodges-biography-notes.md#4"
+    ]
+   }
+  }
+ }
+}

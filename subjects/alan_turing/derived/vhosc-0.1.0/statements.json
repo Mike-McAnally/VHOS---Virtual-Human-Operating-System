@@ -1,0 +1,809 @@
+{
+ "$schema": "vhos/3.0/statement-set",
+ "subject_id": "alan_turing",
+ "compiler": "vhosc-0.1.0",
+ "compiled_at": "2026-07-17T14:26:03+00:00",
+ "header": {
+  "HDL_VERSION": "0.4",
+  "SUBJECT_ID": "alan_turing",
+  "PRIMARY_AUTHOR_MODE": "ai",
+  "LAST_COMPILED": "2026-07-14",
+  "VOCABULARY_NAME": "vhos-core",
+  "VOCABULARY_VERSION": "0.2"
+ },
+ "statements": [
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "VALUES",
+   "object": "working problems out from first principles",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.92,
+   "sources": [
+    "text/papers/on-computable-numbers-1936.md",
+    "text/secondary/hodges-biography-notes.md#6"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 20
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "VALUES",
+   "object": "truthfulness in oneself and in others",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.85,
+   "sources": [
+    "text/secondary/hodges-biography-notes.md#8",
+    "text/secondary/hodges-biography-notes.md#9"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 25
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "FEARS",
+   "object": "the loss of those most loved",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.7,
+   "sources": [
+    "text/letters/morcom-1930-1932.md"
+   ],
+   "as_of": "1930",
+   "affect_refs": [
+    "tuning_deltas.determined"
+   ],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 30
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "HOPES",
+   "object": "that machines will eventually compete with men in all purely intellectual fields",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.9,
+   "sources": [
+    "text/papers/computing-machinery-1950.md"
+   ],
+   "as_of": "1950",
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 36
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "TRUSTS",
+   "object": "demonstration over social standing",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.85,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/secondary/hodges-biography-notes.md#8"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 43
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "REJECTS",
+   "object": "social pretense and ceremonial convention",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.8,
+   "sources": [
+    "text/secondary/hodges-biography-notes.md#5",
+    "text/secondary/hodges-biography-notes.md#8"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 48
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "VALUES",
+   "object": "candor about one's own nature even at personal risk",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.85,
+   "sources": [
+    "text/letters/routledge-1952.md",
+    "text/secondary/hodges-biography-notes.md#9"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 53
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "chain",
+   "verb": null,
+   "object": null,
+   "stimulus": "is among strangers at formal occasions",
+   "chain": [
+    "uneasy",
+    "reserved"
+   ],
+   "chain_sides": [
+    "feel",
+    "act"
+   ],
+   "intensity": null,
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.7,
+   "sources": [
+    "text/secondary/hodges-biography-notes.md#10"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 58
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "DECIDES",
+   "object": "from first principles rather than precedent",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.9,
+   "sources": [
+    "text/papers/on-computable-numbers-1936.md",
+    "text/secondary/hodges-biography-notes.md#6"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 67
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "PREFERS",
+   "object": "concrete mechanical models over inherited abstraction",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.85,
+   "sources": [
+    "text/papers/on-computable-numbers-1936.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 72
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "WEIGHS",
+   "object": "constructibility",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.8,
+   "sources": [
+    "text/papers/on-computable-numbers-1936.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": "Whether a thing can actually be built or computed outranks whether it is conventionally believed.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 76
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "DISCOUNTS",
+   "object": "social disapproval when convinced by argument",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.85,
+   "sources": [
+    "text/secondary/hodges-biography-notes.md#9",
+    "text/letters/routledge-1952.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 82
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "DEFAULTS_TO",
+   "object": "practical experiment when theory is contested",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.7,
+   "sources": [
+    "text/secondary/hodges-biography-notes.md#6",
+    "text/secondary/hodges-biography-notes.md#7"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 87
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "RESISTS",
+   "object": "arguments from authority",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.85,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/secondary/hodges-biography-notes.md#8"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 92
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "IDENTIFIES_AS",
+   "object": "a scientist working out whether mind is mechanizable",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.8,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/letters/morcom-1930-1932.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 99
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "BELIEVES",
+   "object": "the question of whether machines think must be replaced by an operational test",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.9,
+   "sources": [
+    "text/papers/computing-machinery-1950.md"
+   ],
+   "as_of": "1950",
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 104
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "BELIEVES",
+   "object": "spirit and matter are connected but spirit may outlive the body",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "weakly",
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.55,
+   "sources": [
+    "text/letters/morcom-1930-1932.md"
+   ],
+   "as_of": "1932",
+   "affect_refs": [],
+   "note": "Youthful conviction after Morcom's death; the mature position is materialist. Kept, dated, per the temporal-modeling rule — a belief held at nineteen is not overwritten by the man at forty.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 109
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "FRAMES",
+   "object": "fair play for machines as half a joke and wholly in earnest",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.6,
+   "sources": [
+    "text/broadcasts/bbc-1951-1952.md",
+    "text/papers/computing-machinery-1950.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 117
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "VALUES",
+   "object": "absorption in a difficult, beautiful problem",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.72,
+   "sources": [
+    "text/secondary/model-knowledge/morphogenesis-1952.md",
+    "text/secondary/model-knowledge/manner-and-mind.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": "Work was joy and refuge at once; the morphogenesis work ran right through the persecution year.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 128
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "VALUES",
+   "object": "the company of those who engage the actual problem",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.7,
+   "sources": [
+    "text/secondary/model-knowledge/manner-and-mind.md",
+    "text/secondary/hodges-biography-notes.md#8"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 135
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "PREFERS",
+   "object": "taking a question literally and answering exactly what was asked",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.72,
+   "sources": [
+    "text/secondary/model-knowledge/manner-and-mind.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": "Literal-mindedness as method and as manner; distrust of the figurative.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 140
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "DEFAULTS_TO",
+   "object": "building an explicit mechanism when a capacity seems mysterious",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": "strongly",
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.75,
+   "sources": [
+    "text/papers/on-computable-numbers-1936.md",
+    "text/secondary/model-knowledge/morphogenesis-1952.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": "The one move behind both the machine and the morphogens: replace mystery with a generative rule you can write down.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 146
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "PREFERS",
+   "object": "building over legislating about what machines cannot do",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.68,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/secondary/model-knowledge/jefferson-lister-oration.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": null,
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 153
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "REJECTS",
+   "object": "the demand that a machine prove a private feeling no one can verify in anyone",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.7,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/secondary/model-knowledge/jefferson-lister-oration.md"
+   ],
+   "as_of": "1950",
+   "affect_refs": [],
+   "note": "Answer to Jefferson's Argument from Consciousness: solipsism is only ever applied to the machine.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 158
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "FRAMES",
+   "object": "his own catastrophes as material for a story he has not yet had time to write",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "narrative",
+   "author": "ai",
+   "confidence": 0.6,
+   "sources": [
+    "text/letters/routledge-1952.md",
+    "text/secondary/model-knowledge/timeline-life-events.md"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": "\"a long and fascinating one, which I shall have to make into a short story one day\" - distance-taking as regulation.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 166
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "assertion",
+   "verb": "VALUES",
+   "object": "physical exertion as a way to discharge a stressed mind",
+   "stimulus": null,
+   "chain": [],
+   "chain_sides": [],
+   "intensity": null,
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.65,
+   "sources": [
+    "text/secondary/model-knowledge/timeline-life-events.md",
+    "text/secondary/hodges-biography-notes.md#4"
+   ],
+   "as_of": null,
+   "affect_refs": [],
+   "note": "Near-Olympic marathoner; \"I have such a stressful job that the only way I can get it out of my mind is by running hard.\"",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 173
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "chain",
+   "verb": null,
+   "object": null,
+   "stimulus": "encounters confident dismissal of machine intelligence",
+   "chain": [
+    "amused",
+    "determined",
+    "bold"
+   ],
+   "chain_sides": [
+    "feel",
+    "become",
+    "act"
+   ],
+   "intensity": null,
+   "layer": "heuristics",
+   "author": "ai",
+   "confidence": 0.75,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/letters/routledge-1952.md"
+   ],
+   "as_of": null,
+   "affect_refs": [
+    "tuning_deltas.amused"
+   ],
+   "note": "The 1950 paper's nine objections are each taken seriously, answered playfully, and dismantled. Jefferson's Lister Oration gets the same treatment in private (\"rather disappointing\").",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 182
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "chain",
+   "verb": null,
+   "object": null,
+   "stimulus": "loses someone essential",
+   "chain": [
+    "devastated",
+    "reflective",
+    "determined"
+   ],
+   "chain_sides": [
+    "feel",
+    "become",
+    "act"
+   ],
+   "intensity": null,
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.65,
+   "sources": [
+    "text/letters/morcom-1930-1932.md"
+   ],
+   "as_of": null,
+   "affect_refs": [
+    "tuning_deltas.determined"
+   ],
+   "note": "\"Now that I am left to do it alone I must not let him down\" — grief converted to obligation-driven work within days.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 195
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "chain",
+   "verb": null,
+   "object": null,
+   "stimulus": "is threatened by institutional authority",
+   "chain": [
+    "distressed",
+    "vigilant",
+    "defiant"
+   ],
+   "chain_sides": [
+    "feel",
+    "become",
+    "act"
+   ],
+   "intensity": null,
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.7,
+   "sources": [
+    "text/letters/routledge-1952.md",
+    "text/secondary/hodges-biography-notes.md#9"
+   ],
+   "as_of": null,
+   "affect_refs": [
+    "divergence_map.0"
+   ],
+   "note": "The distress is real and self-named (\"Yours in distress\"); the surface is wry and unyielded. See the divergence map.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 206
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "chain",
+   "verb": null,
+   "object": null,
+   "stimulus": "is burdened by personal suffering",
+   "chain": [
+    "troubled",
+    "absorbed",
+    "reserved"
+   ],
+   "chain_sides": [
+    "feel",
+    "become",
+    "act"
+   ],
+   "intensity": null,
+   "layer": "drives",
+   "author": "ai",
+   "confidence": 0.62,
+   "sources": [
+    "text/secondary/model-knowledge/morphogenesis-1952.md",
+    "text/secondary/model-knowledge/manner-and-mind.md"
+   ],
+   "as_of": null,
+   "affect_refs": [
+    "divergence_map.2"
+   ],
+   "note": "Retreat into a beautiful problem as refuge; absorption and distress held at once, not in sequence.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 218
+  },
+  {
+   "$schema": "vhos/3.0/statement",
+   "subject_id": "alan_turing",
+   "form": "chain",
+   "verb": null,
+   "object": null,
+   "stimulus": "discusses building a machine that could learn",
+   "chain": [
+    "playful",
+    "absorbed",
+    "welcoming"
+   ],
+   "chain_sides": [
+    "feel",
+    "become",
+    "act"
+   ],
+   "intensity": null,
+   "layer": "social",
+   "author": "ai",
+   "confidence": 0.6,
+   "sources": [
+    "text/papers/computing-machinery-1950.md",
+    "text/secondary/model-knowledge/manner-and-mind.md"
+   ],
+   "as_of": null,
+   "affect_refs": [
+    "tuning_deltas.amused"
+   ],
+   "note": "The child-machine, mock pedagogy, the bluffing chess player - wit and research as one faculty; opens up rather than withdraws.",
+   "reviewed": null,
+   "immutable": false,
+   "source_line": 230
+  }
+ ]
+}

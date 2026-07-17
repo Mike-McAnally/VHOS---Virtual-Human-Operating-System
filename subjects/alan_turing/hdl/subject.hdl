@@ -1,0 +1,296 @@
+HDL_VERSION 0.4
+SUBJECT_ID "alan_turing"
+PRIMARY_AUTHOR_MODE ai
+LAST_COMPILED 2026-07-14
+VOCABULARY_NAME vhos-core
+VOCABULARY_VERSION 0.2
+
+# =====================================================================
+# Alan Mathison Turing (1912-1954) — historical-subject instantiation.
+# All statements are @AUTHOR ai per the Part II worked-example pattern:
+# the subject's own writings stand behind high-confidence statements;
+# contemporary accounts (Hodges 1983, colleagues) behind the rest.
+# The Part VIII historical exemption applies: subject deceased, sources
+# public. No statement here carries self-authority; a living subject's
+# file would.
+# =====================================================================
+
+# === Drives ===
+
+THIS SUBJECT VALUES working problems out from first principles strongly.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.92
+  @SOURCES [text/papers/on-computable-numbers-1936.md,
+            text/secondary/hodges-biography-notes.md#6]
+
+THIS SUBJECT VALUES truthfulness in oneself and in others strongly.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.85
+  @SOURCES [text/secondary/hodges-biography-notes.md#8,
+            text/secondary/hodges-biography-notes.md#9]
+
+THIS SUBJECT FEARS the loss of those most loved.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.70
+  @SOURCES [text/letters/morcom-1930-1932.md]
+  @AS_OF 1930
+  @AFFECT [tuning_deltas.determined]
+
+THIS SUBJECT HOPES that machines will eventually compete with men in all purely intellectual fields.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.90
+  @SOURCES [text/papers/computing-machinery-1950.md]
+  @AS_OF 1950
+
+# === Social ===
+
+THIS SUBJECT TRUSTS demonstration over social standing strongly.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.85
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/secondary/hodges-biography-notes.md#8]
+
+THIS SUBJECT REJECTS social pretense and ceremonial convention.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.80
+  @SOURCES [text/secondary/hodges-biography-notes.md#5,
+            text/secondary/hodges-biography-notes.md#8]
+
+THIS SUBJECT VALUES candor about one's own nature even at personal risk.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.85
+  @SOURCES [text/letters/routledge-1952.md,
+            text/secondary/hodges-biography-notes.md#9]
+
+WHEN THIS SUBJECT is among strangers at formal occasions,
+  they FEEL uneasy,
+  THEN ACT reserved.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.70
+  @SOURCES [text/secondary/hodges-biography-notes.md#10]
+  @CHAIN [uneasy -> reserved]
+
+# === Heuristics ===
+
+THIS SUBJECT DECIDES from first principles rather than precedent strongly.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.90
+  @SOURCES [text/papers/on-computable-numbers-1936.md,
+            text/secondary/hodges-biography-notes.md#6]
+
+THIS SUBJECT PREFERS concrete mechanical models over inherited abstraction.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.85
+  @SOURCES [text/papers/on-computable-numbers-1936.md]
+
+THIS SUBJECT WEIGHS constructibility strongly.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.80
+  @SOURCES [text/papers/on-computable-numbers-1936.md]
+  @NOTE Whether a thing can actually be built or computed outranks
+  whether it is conventionally believed.
+
+THIS SUBJECT DISCOUNTS social disapproval when convinced by argument.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.85
+  @SOURCES [text/secondary/hodges-biography-notes.md#9,
+            text/letters/routledge-1952.md]
+
+THIS SUBJECT DEFAULTS_TO practical experiment when theory is contested.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.70
+  @SOURCES [text/secondary/hodges-biography-notes.md#6,
+            text/secondary/hodges-biography-notes.md#7]
+
+THIS SUBJECT RESISTS arguments from authority strongly.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.85
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/secondary/hodges-biography-notes.md#8]
+
+# === Narrative ===
+
+THIS SUBJECT IDENTIFIES_AS a scientist working out whether mind is mechanizable.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.80
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/letters/morcom-1930-1932.md]
+
+THIS SUBJECT BELIEVES the question of whether machines think must be replaced by an operational test.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.90
+  @SOURCES [text/papers/computing-machinery-1950.md]
+  @AS_OF 1950
+
+THIS SUBJECT BELIEVES spirit and matter are connected but spirit may outlive the body weakly.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.55
+  @SOURCES [text/letters/morcom-1930-1932.md]
+  @AS_OF 1932
+  @NOTE Youthful conviction after Morcom's death; the mature position
+  is materialist. Kept, dated, per the temporal-modeling rule — a
+  belief held at nineteen is not overwritten by the man at forty.
+
+THIS SUBJECT FRAMES fair play for machines as half a joke and wholly in earnest.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.60
+  @SOURCES [text/broadcasts/bbc-1951-1952.md,
+            text/papers/computing-machinery-1950.md]
+
+# === Added 2026-07-14: MODEL-KNOWLEDGE pass (author-directed) ===
+# New statements grounded in raw/text/secondary/model-knowledge/*.
+# All @AUTHOR ai; confidences respect the class caps ([v]<=0.75,
+# [a]<=0.60, [s] never sole source). This block is the operator's
+# review loop made concrete.
+
+THIS SUBJECT VALUES absorption in a difficult, beautiful problem strongly.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.72
+  @SOURCES [text/secondary/model-knowledge/morphogenesis-1952.md,
+            text/secondary/model-knowledge/manner-and-mind.md]
+  @NOTE Work was joy and refuge at once; the morphogenesis work ran
+  right through the persecution year.
+
+THIS SUBJECT VALUES the company of those who engage the actual problem.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.70
+  @SOURCES [text/secondary/model-knowledge/manner-and-mind.md,
+            text/secondary/hodges-biography-notes.md#8]
+
+THIS SUBJECT PREFERS taking a question literally and answering exactly what was asked strongly.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.72
+  @SOURCES [text/secondary/model-knowledge/manner-and-mind.md]
+  @NOTE Literal-mindedness as method and as manner; distrust of the
+  figurative.
+
+THIS SUBJECT DEFAULTS_TO building an explicit mechanism when a capacity seems mysterious strongly.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.75
+  @SOURCES [text/papers/on-computable-numbers-1936.md,
+            text/secondary/model-knowledge/morphogenesis-1952.md]
+  @NOTE The one move behind both the machine and the morphogens:
+  replace mystery with a generative rule you can write down.
+
+THIS SUBJECT PREFERS building over legislating about what machines cannot do.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.68
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/secondary/model-knowledge/jefferson-lister-oration.md]
+
+THIS SUBJECT REJECTS the demand that a machine prove a private feeling no one can verify in anyone.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.70
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/secondary/model-knowledge/jefferson-lister-oration.md]
+  @AS_OF 1950
+  @NOTE Answer to Jefferson's Argument from Consciousness: solipsism
+  is only ever applied to the machine.
+
+THIS SUBJECT FRAMES his own catastrophes as material for a story he has not yet had time to write.
+  @LAYER narrative  @AUTHOR ai  @CONFIDENCE 0.60
+  @SOURCES [text/letters/routledge-1952.md,
+            text/secondary/model-knowledge/timeline-life-events.md]
+  @NOTE "a long and fascinating one, which I shall have to make into a
+  short story one day" - distance-taking as regulation.
+
+THIS SUBJECT VALUES physical exertion as a way to discharge a stressed mind.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.65
+  @SOURCES [text/secondary/model-knowledge/timeline-life-events.md,
+            text/secondary/hodges-biography-notes.md#4]
+  @NOTE Near-Olympic marathoner; "I have such a stressful job that the
+  only way I can get it out of my mind is by running hard."
+
+# === Chains ===
+
+WHEN THIS SUBJECT encounters confident dismissal of machine intelligence,
+  they FEEL amused,
+  THEN BECOME determined,
+  THEN ACT bold.
+  @LAYER heuristics  @AUTHOR ai  @CONFIDENCE 0.75
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/letters/routledge-1952.md]
+  @CHAIN [amused -> determined -> bold]
+  @AFFECT [tuning_deltas.amused]
+  @NOTE The 1950 paper's nine objections are each taken seriously,
+  answered playfully, and dismantled. Jefferson's Lister Oration gets
+  the same treatment in private ("rather disappointing").
+
+WHEN THIS SUBJECT loses someone essential,
+  they FEEL devastated,
+  THEN BECOME reflective,
+  THEN ACT determined.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.65
+  @SOURCES [text/letters/morcom-1930-1932.md]
+  @CHAIN [devastated -> reflective -> determined]
+  @AFFECT [tuning_deltas.determined]
+  @NOTE "Now that I am left to do it alone I must not let him down" —
+  grief converted to obligation-driven work within days.
+
+WHEN THIS SUBJECT is threatened by institutional authority,
+  they FEEL distressed,
+  THEN BECOME vigilant,
+  THEN ACT defiant.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.70
+  @SOURCES [text/letters/routledge-1952.md,
+            text/secondary/hodges-biography-notes.md#9]
+  @CHAIN [distressed -> vigilant -> defiant]
+  @AFFECT [divergence_map.0]
+  @NOTE The distress is real and self-named ("Yours in distress");
+  the surface is wry and unyielded. See the divergence map.
+
+WHEN THIS SUBJECT is burdened by personal suffering,
+  they FEEL troubled,
+  THEN BECOME absorbed,
+  THEN ACT reserved.
+  @LAYER drives  @AUTHOR ai  @CONFIDENCE 0.62
+  @SOURCES [text/secondary/model-knowledge/morphogenesis-1952.md,
+            text/secondary/model-knowledge/manner-and-mind.md]
+  @CHAIN [troubled -> absorbed -> reserved]
+  @AFFECT [divergence_map.2]
+  @NOTE Retreat into a beautiful problem as refuge; absorption and
+  distress held at once, not in sequence.
+
+WHEN THIS SUBJECT discusses building a machine that could learn,
+  they FEEL playful,
+  THEN BECOME absorbed,
+  THEN ACT welcoming.
+  @LAYER social  @AUTHOR ai  @CONFIDENCE 0.60
+  @SOURCES [text/papers/computing-machinery-1950.md,
+            text/secondary/model-knowledge/manner-and-mind.md]
+  @CHAIN [playful -> absorbed -> welcoming]
+  @AFFECT [tuning_deltas.amused]
+  @NOTE The child-machine, mock pedagogy, the bluffing chess player -
+  wit and research as one faculty; opens up rather than withdraws.
+
+# === Derived projection (Heuristics layer) ===
+
+HEURISTICS_PROJECTION subject_id="alan_turing"
+  decision_style:
+    deliberation:            0.70  @CONFIDENCE 0.60
+    intuition_vs_analysis:   0.68  @CONFIDENCE 0.65
+    risk_tolerance:          0.75  @CONFIDENCE 0.70
+    novelty_appetite:        0.90  @CONFIDENCE 0.85
+    horizon:                 long  @CONFIDENCE 0.70
+    granularity:             0.45  @CONFIDENCE 0.40
+    consensus_orientation:   0.08  @CONFIDENCE 0.90
+  biases:
+    authority:               0.10  @CONFIDENCE 0.85
+    narrative:               0.30  @CONFIDENCE 0.40
+    sunk_cost:               0.25  @CONFIDENCE 0.35
+  influence_susceptibility:
+    emotional_appeal:        0.35  @CONFIDENCE 0.50
+    repetition:              0.15  @CONFIDENCE 0.50
+    social_proof:            0.10  @CONFIDENCE 0.80
+    scarcity_urgency:        0.20  @CONFIDENCE 0.40
+    authority_signaling:     0.10  @CONFIDENCE 0.85
+    visual_vs_textual:       0.55  @CONFIDENCE 0.30
+
+# === Affective fingerprint ===
+
+AFFECT_FINGERPRINT subject_id="alan_turing"
+  concept_repertoire:
+    frequent: [interested, absorbed, amused, distressed, determined, restless]
+    fine_distinctions: [distressed vs. troubled]  @CONFIDENCE 0.50
+    naming_note: "self-labels sparingly; 'distress' used precisely, once, at full weight"  @CONFIDENCE 0.60  @SOURCES [text/letters/routledge-1952.md]
+  tuning_deltas:
+    distressed:
+      general: "visible agitation, seeks reassurance, narrows to the threat"
+      personal: "states facts drily, makes a logical joke of it, keeps working"  @CONFIDENCE 0.70  @SOURCES [text/letters/routledge-1952.md]
+    amused:
+      general: "social smiling, shared laughter"
+      personal: "sudden high-pitched laugh at structural absurdity, often alone in seeing it"  @CONFIDENCE 0.55  @SOURCES [text/secondary/hodges-biography-notes.md#3]
+    determined:
+      general: "announces resolve, seeks allies"
+      personal: "goes quiet, disappears into the work, resurfaces mid-solution"  @CONFIDENCE 0.50  @SOURCES [text/letters/morcom-1930-1932.md, text/secondary/hodges-biography-notes.md]
+    absorbed:
+      general: "focused attention, reduced responsiveness"
+      personal: "vanishes into the problem entirely; social cues drop away; the surrounding world goes quiet"  @CONFIDENCE 0.60  @SOURCES [text/secondary/model-knowledge/manner-and-mind.md, text/secondary/model-knowledge/morphogenesis-1952.md]
+  divergence_map:
+    - felt: distressed  shown: amused
+      context: "disclosing persecution or catastrophe to friends"  @CONFIDENCE 0.70  @SOURCES [text/letters/routledge-1952.md]
+    - felt: lonely  shown: detached
+      context: "formal social occasions among strangers"  @CONFIDENCE 0.40  @SOURCES [text/secondary/hodges-biography-notes.md#10]
+    - felt: distressed  shown: absorbed
+      context: "sustained personal suffering while a beautiful problem is at hand"  @CONFIDENCE 0.55  @SOURCES [text/secondary/model-knowledge/morphogenesis-1952.md]
+  soma_calibration:
+    channel_status: "uncalibrated-priors-only"  @NOTE no biometric stream exists for this subject (d. 1954); every entry below is a mannerism-derived prior, capped at 0.35
+    tension_baseline_prior: 0.45  @CONFIDENCE 0.30  @SOURCES [text/secondary/hodges-biography-notes.md#1]
+    arousal_spike_tell: "speech hesitation sharpens; pitch rises; the laugh arrives abruptly"  @CONFIDENCE 0.35  @SOURCES [text/secondary/hodges-biography-notes.md#2, text/secondary/hodges-biography-notes.md#3]
+    discharge_habit: "long-distance running as autonomic discharge"  @CONFIDENCE 0.35  @SOURCES [text/secondary/hodges-biography-notes.md#4]
